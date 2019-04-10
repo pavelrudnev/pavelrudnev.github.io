@@ -6,10 +6,28 @@
     <description>Recent content in News on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talks at CamCoS 8 and SLE 52</title>
+      <link>https://pavelrudnev.github.io/news/2019/camcos8/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/news/2019/camcos8/</guid>
+      <description>In the spring/summer of 2019, I will give peer-reviewed talks at the eighth installment of the Cambridge Comparative Syntax conference (CamCoS) at the University of Cambridge and the 52nd Annual Meeting of the Societas Linguistica Europæa in Leipzig.</description>
+    </item>
+    
+    <item>
+      <title>Talk at FARL 3</title>
+      <link>https://pavelrudnev.github.io/news/2019/farl3-talk/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/news/2019/farl3-talk/</guid>
+      <description>I have recently given a presentation at the third installment of the Formal Approaches to Russian Linguistics workshop at Lomonosov Moscow State University. In my talk, I have tried to adapt an exhaustification analysis of PPI-disjunction to the facts of Russian. An abstract and a set of slides are available here.</description>
+    </item>
     
     <item>
       <title>Grant from the Russian Science Foundation</title>

@@ -26,22 +26,39 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 10 Apr 2019 17:57:55 MSK</updated>
+    <updated>Wed, 10 Apr 2019 18:39:54 MSK</updated>
 
 
-<item>
-<title>Presentations</title>
-<link>https://pavelrudnev.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/</guid>
-<description></description>
-</item>
-    
 <item>
 <title>Pavel Rudnev’s website</title>
 <link>https://pavelrudnev.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>News</title>
+<link>https://pavelrudnev.github.io/news/</link>
+<pubDate>Wed, 10 Apr 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/news/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Talks at CamCoS 8 and SLE 52</title>
+<link>https://pavelrudnev.github.io/news/2019/camcos8/</link>
+<pubDate>Wed, 10 Apr 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/news/2019/camcos8/</guid>
+<description>&lt;p&gt;In the spring/summer of 2019, I will give peer-reviewed talks at the eighth installment of the Cambridge Comparative Syntax conference (CamCoS) at the University of Cambridge and the 52nd Annual Meeting of the Societas Linguistica Europæa in Leipzig.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Presentations</title>
+<link>https://pavelrudnev.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/</guid>
 <description></description>
 </item>
     
@@ -64,6 +81,15 @@
 </item>
     
 <item>
+<title>Talk at FARL 3</title>
+<link>https://pavelrudnev.github.io/news/2019/farl3-talk/</link>
+<pubDate>Fri, 05 Apr 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/news/2019/farl3-talk/</guid>
+<description>&lt;p&gt;I have recently given a presentation at the third installment of the Formal Approaches to Russian Linguistics workshop at Lomonosov Moscow State University. In my talk, I have tried to adapt an exhaustification analysis of PPI-disjunction to the facts of Russian. An abstract and a set of slides are available &lt;a href=&#34;https://pavelrudnev.github.io/presentation/2019/farl3/&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Against Upwards Agree: A view from Daghestan</title>
 <link>https://pavelrudnev.github.io/presentation/2019/formlab-agreement/</link>
 <pubDate>Fri, 22 Mar 2019 00:00:00 UTC</pubDate>
@@ -82,8 +108,8 @@
 <description>&lt;p&gt;This talks provides an overview of approaches to featural dependencies in current minimalist work starting from Chomsky (1995). I also discuss aspects of the theory of feature structure which, though often taken for granted, present non-trivial challenges to developing explanatory analyses of featural dependencies. In addition to ϕ-features, the features I discuss are as follows:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;interpretable *vs.* uninterpretable&lt;/li&gt;
-&lt;li&gt;valued *vs.* unvalued&lt;/li&gt;
+&lt;li&gt;interpretable vs. uninterpretable&lt;/li&gt;
+&lt;li&gt;valued vs. unvalued&lt;/li&gt;
 &lt;li&gt;second-order features/EPP-features&lt;/li&gt;
 &lt;li&gt;features-of-features ([E]-features)&lt;/li&gt;
 &lt;li&gt;formal wh-features&lt;/li&gt;
@@ -336,14 +362,6 @@ wide scope.&lt;/p&gt;
 
 &lt;p&gt;This is a peer-reviewed talk, for the 51st annual meeting of the Societas Linguistica Europæa at Tallinn University.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>News</title>
-<link>https://pavelrudnev.github.io/news/</link>
-<pubDate>Sun, 01 Jul 2018 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/news/</guid>
-<description></description>
 </item>
     
 <item>
@@ -894,34 +912,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, wh-questions, Avar&lt;/p&gt;
 
 &lt;p&gt;This is a  talk at the &lt;a href=&#34;https://linguisticsnet.wordpress.com/infl-workshops/infl-workshop-september-2011/&#34;&gt;final workshop&lt;/a&gt; of the &lt;a href=&#34;https://linguisticsnet.wordpress.com/&#34;&gt;Irish Network in Formal Linguistics&lt;/a&gt; held at Dublin City University](&lt;a href=&#34;http://dcu.ie/&#34;&gt;http://dcu.ie/&lt;/a&gt;).&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Long distance anaphora in Avar: Why it can’t be empathy all alone</title>
-<link>https://pavelrudnev.github.io/presentation/2011/avar-reflexives-utrecht/</link>
-<pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2011/avar-reflexives-utrecht/</guid>
-<description>&lt;p&gt;In this talk I present a detailed description of the behaviour of various classes of (anaphoric) pronouns in the Northeast Caucasian language Avar. I use these data to argue against approaches to anaphora based on pragmatic notions such as &lt;em&gt;empathy&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, reflexives, reciprocals, Avar&lt;/p&gt;
-
-&lt;p&gt;This is a  talk at the &lt;a href=&#34;http://languagelink.hum.uu.nl/anatyp/wiki/doku.php?id=program_wor&#34;&gt;World of Reflexives&lt;/a&gt; workshop  at &lt;a href=&#34;http://uu.nl/&#34;&gt;Utrecht University&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Russian Sign Language Pronouns, Indexicality and the Signing Space</title>
-<link>https://pavelrudnev.github.io/presentation/2011/rsl-reflexives-utrecht/</link>
-<pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2011/rsl-reflexives-utrecht/</guid>
-<description>&lt;p&gt;(with Vadim Kimmelman)&lt;/p&gt;
-
-&lt;p&gt;In this talk we present a detailed description of the behaviour of various classes of (anaphoric) pronouns in three dialects of the Russian Sign Language.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, Russian Sign Language&lt;/p&gt;
-
-&lt;p&gt;This is a  talk at the &lt;a href=&#34;http://languagelink.hum.uu.nl/anatyp/wiki/doku.php?id=program_wor&#34;&gt;World of Reflexives&lt;/a&gt; workshop  at &lt;a href=&#34;http://uu.nl/&#34;&gt;Utrecht University&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
