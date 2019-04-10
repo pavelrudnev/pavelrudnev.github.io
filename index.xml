@@ -26,7 +26,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 10 Apr 2019 13:55:41 MSK</updated>
+    <updated>Wed, 10 Apr 2019 17:20:31 MSK</updated>
 
 
 <item>
@@ -98,6 +98,32 @@
 </item>
     
 <item>
+<title>Writings</title>
+<link>https://pavelrudnev.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Binding and agreement in Avar support the encapsulation analysis of the Anaphor Agreement Effect</title>
+<link>https://pavelrudnev.github.io/writing/aae-squib/</link>
+<pubDate>Sun, 24 Mar 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/aae-squib/</guid>
+<description>&lt;p&gt;This paper discusses two analyses of the Anaphor Agreement Effect (AAE, Rizzi 1990) in the light of novel data from Avar. By demonstrating that Avar anaphors trigger full, non-trivial agreement on the ϕ-probe, I argue that the Avar data instantiate a genuine exception to the AAE. I then compare two competing analyses of binding and the AAE: an account whereby anaphoric dependencies arise via the syntactic operation Agree (Murugesan 2018), and a theory deriving the inability of the anaphors’ ϕ-features to trigger full agreement from the presence of additional structural layers inside the anaphors that render the features inaccessible (Preminger 2019). I claim that the absence of the AAE in Avar supports the encapsulation analysis.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Automatic detection of natural phonological classes in Russian Sign Language</title>
+<link>https://pavelrudnev.github.io/writing/rsl-phonology/</link>
+<pubDate>Tue, 25 Dec 2018 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/rsl-phonology/</guid>
+<description>&lt;p&gt;The present paper applies Multiple Correspondence Analysis to test the validity of an existing theoretical model of the phonological system of Russian Sign Language (RSL). We show that comparing the importance of phonological features using ratio plots and MCA is a promising way of revealing non-binary oppositions in phonological systems of human languages irrespective of modality.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Agreeing adpositions in Avar and theories of Agree</title>
 <link>https://pavelrudnev.github.io/presentation/2018/agreeing-adpositions-in-avar/</link>
 <pubDate>Fri, 14 Dec 2018 00:00:00 UTC</pubDate>
@@ -132,14 +158,6 @@ alternatives.&lt;/p&gt;
 
 &lt;p&gt;The handout is available &lt;a href=&#34;https://pavelrudnev.github.io/papers/andic-seminar-26-10-2018.md.handout.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>https://pavelrudnev.github.io/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -904,24 +922,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, Russian Sign Language&lt;/p&gt;
 
 &lt;p&gt;This is a  talk at the &lt;a href=&#34;http://languagelink.hum.uu.nl/anatyp/wiki/doku.php?id=program_wor&#34;&gt;World of Reflexives&lt;/a&gt; workshop  at &lt;a href=&#34;http://uu.nl/&#34;&gt;Utrecht University&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Review of Hicks, Glyn. 2009. _The derivation of anaphoric relations_. John Benjamins: Amsterdam/Philadelphia</title>
-<link>https://pavelrudnev.github.io/writing/osla-review/</link>
-<pubDate>Wed, 01 Dec 2010 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/writing/osla-review/</guid>
-<description>&lt;p&gt;This paper reviews the derivational approach to binding as proposed by Glyn Hicks.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Quantification, possession and the DP/NP debate</title>
-<link>https://pavelrudnev.github.io/presentation/2010/quantification-possession/</link>
-<pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2010/quantification-possession/</guid>
-<description>&lt;p&gt;This is an invited talk at the &lt;a href=&#34;https://syntaxlab.weblog.leidenuniv.nl/&#34;&gt;Leiden Syntax Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
