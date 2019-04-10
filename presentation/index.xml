@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+      <title>Presentations in Pavel Rudnev’s website </title>
+	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
+	  <itunes:author>Greg Restall</itunes:author>
+	  <itunes:owner>
+	  <itunes:name>Greg Restall</itunes:name>
+	  <itunes:email>greg@consequently.org</itunes:email>
+	  </itunes:owner>
+	  <itunes:category text="Education">
+	  <itunes:category text="Higher Education"/>
+	  </itunes:category>
+	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="https://pavelrudnev.github.io/img/avatar2.jpg" />
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://pavelrudnev.github.io/presentation/</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Tue, 02 Oct 2018 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Minimalism: Linguistic theory and considerations of simplicity</title>
+      <link>https://pavelrudnev.github.io/presentation/2018/hse-spb-minimalism/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2018/hse-spb-minimalism/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is an invited guest lecture for &lt;a href=&#34;https://www.hse.ru/org/persons/191262608&#34;&gt;Misha Knyazev&lt;/a&gt;&amp;rsquo;s undergraduate course on theoretical approaches in linguistics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Plain disjunction markers in Russian and positive polarity</title>
+      <link>https://pavelrudnev.github.io/presentation/2018/sle-2018/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2018/sle-2018/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: We know since at least Szabolcsi (2002) that disjunction markers in certain languages display remarkable similarities with some in English, similarities attributable to both groups of elements’ status as positive polarity items. In the case of disjunction, this translates into the inability of disjunction to scope under a local sentential negation leading to violations of De Morgan’s laws: &lt;em&gt;He doesn’t speak Russian or German&lt;/em&gt; in Russian can under certain circumstances be interpreted as a disjunction of negations, the narrow scope reading being unavailable.&lt;/p&gt;
+
+&lt;p&gt;The current consensus in the literature seems to be that positive polarity is a semantic phenomenon. In this talk I suggest that positive polarity has an important syntactic component, which I show by revisiting the locality of (anti-)licensing, rescuing, the phrasal vs. clausal coordination as well as overt movement and scope in Russian.&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk, for the 51st annual meeting of the Societas Linguistica Europæa at Tallinn University.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>The nature of restrictions on the expression of negation in Avar</title>
+      <link>https://pavelrudnev.github.io/presentation/2017/on-the-nature-of-restrictions-on-avar-negation-ras/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2017/on-the-nature-of-restrictions-on-avar-negation-ras/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I have recently presented my ongoing work on the syntactico-semantic properties of negation in Avar in the Andic seminar at the Institute of Linguistics of the Russian Academy of Sciences. This was my first Russian-language presentation after a long lull.&lt;/p&gt;
+
+&lt;p&gt;In the talk, I argued that the rather idiosyncratic morphosyntactic properties of Avar negation, as well as the restrictions on the expression and interpretation of negation, can be accounted for in a framework postulating an ontological distinction between (sets of) events and (sets of) situations as conceptual underpinnings of the hierarchy of functional projections. In particular, I proposed that two negation strategies coëxist in Avar: a monoclausal one, familiar from better-studied languages, operates on non-past tense clauses, and the predicative one where the negation marker is essentially a copula which combines with a nominalised clause, expresses negation in the past tense.&lt;/p&gt;
+
+&lt;p&gt;The handout (in Russian) can be downloaded &lt;a href=&#34;https://pavelrudnev.github.io/papers/avar-negation-andi-seminar-ras-handout.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Disjunct size, positive polarity and the scope of disjunction in Russian</title>
+      <link>https://pavelrudnev.github.io/presentation/2017/disjunct-size-iatl/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2017/disjunct-size-iatl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk I show that the positive-polarity status of the plain disjunction marker &lt;em&gt;ili&lt;/em&gt; ‘or’ in Russian correlates with the phrasal vs. clausal nature of disjunction. In particular, I demonstrate that appealing to the availability of phrasal disjunction can shed some light on the hitherto unobserved obviations of anti-licensing effects characteristic of PPI-disjunction markers in a variety of languages (Szabolcsi 2002 &lt;em&gt;et seq.&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk, for the 33rd annual meeting of the &lt;a href=&#34;https://www.iatl.org.il/?page_id=1139&#34;&gt;Israel Association for Theoretical Linguistics&lt;/a&gt;, in Tel-Aviv.&lt;/p&gt;
+
+&lt;p&gt;You can view the slides &lt;a href=&#34;https://pavelrudnev.github.io/papers/iatl33-slides-rudnev.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Paths to positive polarity: PPI-disjunctions in Russian</title>
+      <link>https://pavelrudnev.github.io/presentation/2017/paths-to-positive-polarity-farl/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2017/paths-to-positive-polarity-farl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: We know since at least Szabolcsi (2002) that disjunction markers in certain languages display remarkable similarities with some in English, similarities attributable to both groups of elements’ status as positive polarity items. In the case of disjunction, this translates into the inability of disjunction to scope under a local sentential negation leading to violations of De Morgan’s laws: &lt;em&gt;He doesn’t speak Russian or German&lt;/em&gt; in Russian can under certain circumstances be interpreted as a disjunction of negations, the narrow scope reading being unavailable.&lt;/p&gt;
+
+&lt;p&gt;The current consensus in the literature seems to be that positive polarity is a semantic phenomenon. In this talk I suggest that positive polarity has an important syntactic component, which I show by revisiting the locality of (anti-)licensing, rescuing, the phrasal vs. clausal coordination as well as overt movement and scope in Russian.&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk, for the second installment of the &lt;a href=&#34;http://otipl.philol.msu.ru/library/seminars/farl/farl2_main.php&#34;&gt;Formal Approaches to Russian Linguistics&lt;/a&gt; workshop, in Moscow.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>The syntactic side of positive polarity: PPI-disjunctions in Russian</title>
+      <link>https://pavelrudnev.github.io/presentation/2016/syntactic-side-of-positive-polarity-leiden/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2016/syntactic-side-of-positive-polarity-leiden/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: We know since at least Szabolcsi (2002) that disjunction markers in certain languages display remarkable similarities with some in English, similarities attributable to both groups of elements’ status as positive polarity items. In the case of disjunction, this translates into the inability of disjunction to scope under a local sentential negation leading to violations of De Morgan’s laws: &lt;em&gt;He doesn’t speak Russian or German&lt;/em&gt; in Russian can under certain circumstances be interpreted as a disjunction of negations, the narrow scope reading being unavailable.&lt;/p&gt;
+
+&lt;p&gt;The current consensus in the literature seems to be that positive polarity is a semantic phenomenon. In this talk I suggest that positive polarity has an important syntactic component, which I show by revisiting the locality of (anti-)licensing, rescuing, the phrasal vs. clausal coordination as well as overt movement and scope in Russian.&lt;/p&gt;
+
+&lt;p&gt;This is an invited talk presented at the &lt;a href=&#34;https://romancelab.weblog.leidenuniv.nl/&#34;&gt;Comparative Syntax Meetings&lt;/a&gt; series at the University of Leiden, 15 September 2016.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://pavelrudnev.github.io/papers/leiden-handout-2up.pdf&#34;&gt;handout is available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Particles, disjunctions and inquisitivity in Avar</title>
+      <link>https://pavelrudnev.github.io/presentation/2016/disjunction-concessivity-avar-tabudag/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2016/disjunction-concessivity-avar-tabudag/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper discusses a previously neglected disjunction strategy in Avar (NE Caucasian),
+whereby each disjunct is accompanied by a morphologically complex disjunction
+marker &lt;em&gt;=nigi&lt;/em&gt; yet the disjunction is not interpreted exclusively, unlike the reduplicated discontinuous disjunctions like &lt;em&gt;soit_soit&lt;/em&gt; in French.&lt;/p&gt;
+
+&lt;p&gt;The disjunction marker is exponentially identical with the particle attaching to indefinites
+and turning them into polarity items: &lt;em&gt;šib=nigi&lt;/em&gt; ‘what=POL (ie someting/nothing)’
+as well as the marker of concessivity that attaches to verbs.
+In this paper I attempt to unify the approach to particles developed by
+Wiltschko (2016) with the analysis of particle float in Avar (Rudnev 2015).&lt;/p&gt;
+
+&lt;p&gt;This is a  talk presented at the 37th installment of &lt;a href=&#34;http://www.let.rug.nl/tabudag/&#34;&gt;TaBu Dag&lt;/a&gt;, an annual general linguistics conference organised by the University of Groningen, 3rd June 2016.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/papers/tabu-handout.pdf&#34;&gt;handout is available here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Alternatively, you can &lt;a href=&#34;http://pavelrudnev.github.io/papers/tabu-slides.pdf&#34;&gt;view the slides here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Core and peripheral disjunction strategies in Russian: Their interaction with sentential negation</title>
+      <link>https://pavelrudnev.github.io/presentation/2016/core-and-peripheral-disjunction-tindag/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2016/core-and-peripheral-disjunction-tindag/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper’s point of departure is the generalisation in Szabolcsi (2002) that natural languages differ in the way that their disjunction markers can be interpreted when embedded under negation.&lt;/p&gt;
+
+&lt;p&gt;(1) Mary doesn’t speak German or Polish.&lt;br /&gt;
+= Mary doesn’t speak German and she doesn’t speak Polish.&lt;/p&gt;
+
+&lt;p&gt;Corresponding sentences in Hungarian are interpreted exclusively: either Mary doesn’t speak German or she doesn’t speak Polish (Szabolcsi 2002). Szabolcsi (2002) proposes that the contrast between English and Hungarian lies in the status of Hungarian ‘or’ as a positive polarity item, in contrast to English or. In this talk I take a closer look at Russian, a language that Szabolcsi (2002) places in the Hungarian class, by revisiting Szabolcsi’s generalisation as it applies to Russian.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/tindag2016-slides.pdf&#34;&gt;slides can be downloaded here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>The interaction of disjunction and negation in Russian</title>
+      <link>https://pavelrudnev.github.io/presentation/2015/disjunction-negation-in-russian-syntaxif/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2015/disjunction-negation-in-russian-syntaxif/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The project takes as its point of departure the generalisation found in Szabolcsi (2002), which has become a standard reference point in the literature on negation and disjunction, that natural languages differ in the way that their disjunction markers can be interpreted when embedded under negation. Examples (1) and (2) illustrate the contrast.&lt;/p&gt;
+
+&lt;p&gt;(1) Mary didn’t take hockey or algebra.&lt;br/&gt;
+= ‘Mary took neither hockey nor algebra.’
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;In languages like English the most salient interpretation of (1) is that Mary took neither hockey nor algebra, whereas it is seldom interpreted as saying that Mary didn’t take either of hockey or algebra together but that she may very well have taken one of them but not the other.&lt;/p&gt;
+
+&lt;p&gt;Corresponding sentences in Hungarian, however, are interpreted in an entirely different manner:&lt;/p&gt;
+
+&lt;p&gt;(2) mari nem járt hokira vagy algebrára&lt;br/&gt;
+  Mari not went hockey.to or algebra.to&lt;br/&gt;
+   = ‘Mary didn’t take hockey and didn’t take algebra.’ &lt;br/&gt;
+   = ‘Mary didn’t take hockey or didn’t take algebra.’&lt;/p&gt;
+
+&lt;p&gt;Szabolcsi (2002) proposes that the contrast between the English (1) and (2) from Hungarian lies in the status of vagy ‘or’ as a positive polarity item (PPI), whereas in English or does not have such a status.&lt;/p&gt;
+
+&lt;p&gt;Languages that have been argued to pattern with English as far as the interpretation of disjunction under negation is concerned include German and Dutch, whereas Romanian, Russian and Japanese are named as belonging to the same class of languages as Hungarian.&lt;/p&gt;
+
+&lt;p&gt;In this talk I revisit Szabolcsi’s (2002) generalisation as it applies to Russian, focusing on two potential problems: (i) the availability of only the conjunctive interpretation in negated copular clauses and (ii) the degraded status of Russian counterparts to (2).&lt;/p&gt;
+
+&lt;p&gt;This is an invited talk at the &lt;a href=&#34;http://syntaxif.wp.hum.uu.nl/&#34;&gt;Syntax Interface Lectures&lt;/a&gt; series at Utrecht University.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/utrecht-handout-1up.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A study of Avar negation</title>
+      <link>https://pavelrudnev.github.io/presentation/2015/avar-negation-groningen/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2015/avar-negation-groningen/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I discuss a number of restrictions on sentential negation marking in Avar, a Northeast Caucasian language, and sketch a tentative analysis of the observed morphosyntactic facts as having a semantic basis. The two different negation markers (&lt;em&gt;-ro&lt;/em&gt; and &lt;em&gt;-č&amp;rsquo;o&lt;/em&gt;) are analysed, based on the proposal in Ramchand &amp;amp; Svenonius 2014, as taking complements of a different syntactic size and semantic type.&lt;/p&gt;
+
+&lt;p&gt;In particular, I show that the two negation markers attested in Avar differ in the type of semantic object they can compose with: for the present and future tenses &lt;em&gt;-ro&lt;/em&gt; combines with a Fin*P denoting a set of propositions, whereas past-tense negation utilises the biclausal predicational strategy.&lt;/p&gt;
+
+&lt;p&gt;The question why past tense forms cannot combine with &lt;em&gt;-ro&lt;/em&gt; has remained unanswered. It remains to be seen whether the proposal made for &lt;em&gt;-č’o&lt;/em&gt; can be made compatible with the use of the present-tense negative copula/auxiliary &lt;em&gt;heč’o&lt;/em&gt; as the auxiliary in analytic verb forms.&lt;/p&gt;
+
+&lt;p&gt;I further draw a number of cross-linguistic comparisons between Avar on the one hand, and Bengali, Mebengokre and the Salish languages on the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, negation, nominalization, event semantics, situation semantics, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a talk at the [That depends&amp;hellip;]() workshop on the occasion of my viva at the University of Groningen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/that-depends-handout.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Locations and situations: Negation and finiteness in Avar</title>
+      <link>https://pavelrudnev.github.io/presentation/2015/locations-and-situations-avar-negation-tindag/</link>
+      <pubDate>Sat, 07 Feb 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2015/locations-and-situations-avar-negation-tindag/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I discuss a number of restrictions on sentential negation marking in Avar, a Northeast Caucasian language, and sketch a tentative analysis of the observed morphosyntactic facts as having a semantic basis. The two different negation markers (&lt;em&gt;-ro&lt;/em&gt; and &lt;em&gt;-č&amp;rsquo;o&lt;/em&gt;) are analysed, based on the proposal in Ramchand &amp;amp; Svenonius 2014, as taking complements of a different syntactic size and semantic type.&lt;/p&gt;
+
+&lt;p&gt;In particular, I show that the two negation markers attested in Avar differ in the type of semantic object they can compose with: for the present and future tenses &lt;em&gt;-ro&lt;/em&gt; combines with a Fin*P denoting a set of propositions, whereas past-tense negation utilises the biclausal predicational strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, negation, nominalization, event semantics, situation semantics, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a talk at TiN-Dag 2015, the annual general linguistics conference of the &lt;a href=&#34;http://www.hum.leidenuniv.nl/onderzoek/avt/&#34;&gt;Dutch Linguistics Association&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/tindag2015-handout.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Towards a non-cartographic approach to Avar focus movement</title>
+      <link>https://pavelrudnev.github.io/presentation/2013/avar-focus-goettingen/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2013/avar-focus-goettingen/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I examine the Avar focus construction, restricting my attention to situations where focus marking brings with it a change in the morphosyntactic appearance of the verb. I argue against the popular cartographic approach to focus whereby non-syntactic, interpretative information is instantiated as a head in the functional structure of the clause, and pursue an alternative, free-merge based approach to focus movement.&lt;/p&gt;
+
+&lt;p&gt;Superseded by chapter 5 of my PhD thesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, focus, Avar&lt;/p&gt;
+
+&lt;p&gt;This is an invited talk at &lt;em&gt;New approaches to the syntax/semantics interface&lt;/em&gt;, a workshop held at the University of Göttingen as part of the &lt;a href=&#34;http://www.u4network.eu/&#34;&gt;U4 network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/goettingen-slides.pdf&#34;&gt;slides&lt;/a&gt; for this talk are available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Matrix constituent interrogatives in Avar</title>
+      <link>https://pavelrudnev.github.io/presentation/2012/avar-wh-questions-istanbul/</link>
+      <pubDate>Fri, 30 Nov 2012 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2012/avar-wh-questions-istanbul/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I examine two strategies of posing a matrix wh-question in Avar, restricting my attention to situations where focus marking brings with it a change in the morphosyntactic appearance of the verb. I argue against the popular wh-extraction approach, and analyse the two strategies as involving clefting.&lt;/p&gt;
+
+&lt;p&gt;Superseded by chapter 4 of my PhD thesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, wh-questions, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk at &lt;a href=&#34;http://www.caucasus.boun.edu.tr/&#34;&gt;Typology, theory: Caucasus&lt;/a&gt;, a conference co-hosted by &lt;a href=&#34;http://boun.edu.tr&#34;&gt;Boğazici University&lt;/a&gt; and the &lt;a href=&#34;http://www.ifea-istanbul.net/index.php?option=com_k2&amp;amp;view=item&amp;amp;layout=item&amp;amp;id=1255&amp;amp;Itemid=295&amp;amp;lang=fr&#34;&gt;French Research Institute&lt;/a&gt; in Istanbul.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Syntax and semantics of constituent interrogatives in Standard Avar: a base-generation approach.</title>
+      <link>https://pavelrudnev.github.io/presentation/2011/avar-wh-questions-woss/</link>
+      <pubDate>Fri, 18 Nov 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2011/avar-wh-questions-woss/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I examine two strategies of posing a matrix wh-question in Avar, restricting my attention to situations where focus marking brings with it a change in the morphosyntactic appearance of the verb. I argue against the popular wh-extraction approach, and analyse the two strategies as involving clefting.&lt;/p&gt;
+
+&lt;p&gt;Superseded by chapter 4 of my PhD thesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, wh-questions, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk at the &lt;a href=&#34;http://listserv.linguistlist.org/pipermail/parislinguists/2011-November/003619.html&#34;&gt;8th Workshop on Syntax and Semantics&lt;/a&gt;, a conference co-hosted by &lt;a href=&#34;http://www.cnrs.fr/&#34;&gt;CNRS&lt;/a&gt; and  &lt;a href=&#34;https://www.univ-paris8.fr/&#34;&gt;Université Paris 8&lt;/a&gt; in Paris.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Wh-fronting is not (necessarily) wh-movement</title>
+      <link>https://pavelrudnev.github.io/presentation/2011/avar-wh-questions-infl/</link>
+      <pubDate>Fri, 16 Sep 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2011/avar-wh-questions-infl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I examine two strategies of posing a matrix wh-question in Avar, restricting my attention to situations where focus marking brings with it a change in the morphosyntactic appearance of the verb. I argue against the popular wh-extraction approach, and analyse the two strategies as involving clefting.&lt;/p&gt;
+
+&lt;p&gt;Superseded by chapter 4 of my PhD thesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, wh-questions, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a  talk at the &lt;a href=&#34;https://linguisticsnet.wordpress.com/infl-workshops/infl-workshop-september-2011/&#34;&gt;final workshop&lt;/a&gt; of the &lt;a href=&#34;https://linguisticsnet.wordpress.com/&#34;&gt;Irish Network in Formal Linguistics&lt;/a&gt; held at Dublin City University](&lt;a href=&#34;http://dcu.ie/&#34;&gt;http://dcu.ie/&lt;/a&gt;).&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Long distance anaphora in Avar: Why it can’t be empathy all alone</title>
+      <link>https://pavelrudnev.github.io/presentation/2011/avar-reflexives-utrecht/</link>
+      <pubDate>Sat, 27 Aug 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2011/avar-reflexives-utrecht/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this talk I present a detailed description of the behaviour of various classes of (anaphoric) pronouns in the Northeast Caucasian language Avar. I use these data to argue against approaches to anaphora based on pragmatic notions such as &lt;em&gt;empathy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, reflexives, reciprocals, Avar&lt;/p&gt;
+
+&lt;p&gt;This is a  talk at the &lt;a href=&#34;http://languagelink.hum.uu.nl/anatyp/wiki/doku.php?id=program_wor&#34;&gt;World of Reflexives&lt;/a&gt; workshop  at &lt;a href=&#34;http://uu.nl/&#34;&gt;Utrecht University&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Russian Sign Language Pronouns, Indexicality and the Signing Space</title>
+      <link>https://pavelrudnev.github.io/presentation/2011/rsl-reflexives-utrecht/</link>
+      <pubDate>Thu, 25 Aug 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2011/rsl-reflexives-utrecht/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;(with Vadim Kimmelman)&lt;/p&gt;
+
+&lt;p&gt;In this talk we present a detailed description of the behaviour of various classes of (anaphoric) pronouns in three dialects of the Russian Sign Language.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, Russian Sign Language&lt;/p&gt;
+
+&lt;p&gt;This is a  talk at the &lt;a href=&#34;http://languagelink.hum.uu.nl/anatyp/wiki/doku.php?id=program_wor&#34;&gt;World of Reflexives&lt;/a&gt; workshop  at &lt;a href=&#34;http://uu.nl/&#34;&gt;Utrecht University&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Quantification, possession and the DP/NP debate</title>
+      <link>https://pavelrudnev.github.io/presentation/2010/quantification-possession/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2010/quantification-possession/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is an invited talk at the &lt;a href=&#34;https://syntaxlab.weblog.leidenuniv.nl/&#34;&gt;Leiden Syntax Lab&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Breaking the Coreference Rule</title>
+      <link>https://pavelrudnev.github.io/presentation/2010/coreference-rule-stuttgart/</link>
+      <pubDate>Fri, 24 Sep 2010 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2010/coreference-rule-stuttgart/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;(with Vadim Kimmelman)&lt;/p&gt;
+
+&lt;p&gt;In this talk we present a detailed description of the behaviour of various classes of (anaphoric) pronouns in three dialects of the Russian Sign Language and compare them with the distribution of similar pronouns in Turkish.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, Russian Sign Language, Turkish, coreference&lt;/p&gt;
+
+&lt;p&gt;This is a peer-reviewed talk at the &lt;a href=&#34;http://www.ilg.uni-stuttgart.de/forschung/konferenz/binding2010/program.html&#34;&gt;Peculiar Binding Configurations&lt;/a&gt; workshop  at the &lt;a href=&#34;http://uni-stuttgart.de&#34;&gt;University of Stuttgart&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

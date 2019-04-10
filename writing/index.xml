@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+      <title>Writings in Pavel Rudnev’s website </title>
+	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
+	  <itunes:author>Greg Restall</itunes:author>
+	  <itunes:owner>
+	  <itunes:name>Greg Restall</itunes:name>
+	  <itunes:email>greg@consequently.org</itunes:email>
+	  </itunes:owner>
+	  <itunes:category text="Education">
+	  <itunes:category text="Higher Education"/>
+	  </itunes:category>
+	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="https://pavelrudnev.github.io/img/avatar2.jpg" />
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://pavelrudnev.github.io/writing/</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Sun, 07 Oct 2018 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Adposition agreement in Avar and the directionality of valuation debate</title>
+      <link>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Given the central spot afforded to unvalued features in current theorizing, the directionality of feature valuation is the subject of a lively debate in the syntactic literature. The traditional conception of upward valuation, whereby the unvalued probe inherits features from a valued goal in its c-command domain (Chomsky 2000, 2001a, Carstens 2013, Preminger 2013), has to compete with downward valuation (Zeijlstra 2012),  Hybrid Agree (Bjorkman &amp;amp; Zeijlstra 2018), bidirectional Agree (Baker 2008), amongst others.&lt;/p&gt;
+
+&lt;p&gt;The present paper discusses, using data from Avar, a crosslinguistically rare phenomenon of adposition agreement, whereby certain adverbs, postpositions and locative case forms undergo agreement with an absolutive argument.  I show that the agreement morphology on agreeing adpositions is a result of agreement rather than concord and explore the consequences of adposition agreement in Avar for upward and downward valuation. I conclude that upward valuation is better equipped to account for the observed patterns than downward valuation, both on empirical and conceptual grounds.&lt;/p&gt;
+
+&lt;p&gt;The paper is currently undergoing peer review; yet, if you feel you would like an intermediate draft of it, please get in touch with me.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Some difficulties deriving the positive polarity behaviour of plain disjunction in Russian: Remarks on Nicolae 2017</title>
+      <link>https://pavelrudnev.github.io/writing/ppi-disjunctions-in-russian-squib/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/ppi-disjunctions-in-russian-squib/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nicolae (2017) develops an account of PPI-disjunctions whereby
+the unacceptability of plain disjunction in DE-environments results from
+an economy condition imposed on obligatory exhaustification. This remark
+shows this general mechanism to be insufficient to account for the
+behaviour of the Russian plain disjunction marker &lt;em&gt;ili&lt;/em&gt;, whose scope properties are
+argued to correlate with the phrasal vs. clausal nature of the disjunction:
+phrasal disjunction yields narrow scope whilst clausal disjunction yields
+wide scope.&lt;/p&gt;
+
+&lt;p&gt;The paper is currently down for revision; yet, if you feel you would like an intermediate draft of it, please get in touch with me.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Minimal pronouns, logophoricity, and long-distance reflexivisation in Avar</title>
+      <link>https://pavelrudnev.github.io/writing/minimal-pronouns-logophoricity-avar/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/minimal-pronouns-logophoricity-avar/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper discusses two morphologically related anaphoric pronouns in Avar (Avar-Andic, Nakh-Daghestanian) and proposes that one of them should be treated as a minimal pronoun that receives its interpretation from a λ-operator situated on a phasal head whereas the other is a logophoric pronoun denoting the author of the reported event.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Events, locations and situations: On the interaction of negation and finiteness in Avar</title>
+      <link>https://pavelrudnev.github.io/writing/events-locations-and-situations/</link>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/events-locations-and-situations/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper documents a number of restrictions on negation marking in Avar, a Northeast Caucasian language, and presents a tentative analysis of the observed morphosyntactic facts as having a semantic basis. The two different negation markers are analysed, based on the proposal in (Ramchand &amp;amp; Svenonius 2014), as taking complements of a different semantic type.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>_Kendisi_ revisited</title>
+      <link>https://pavelrudnev.github.io/writing/kendisi-revisited/</link>
+      <pubDate>Sat, 02 May 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/kendisi-revisited/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The present contribution follows up on Rudnev 2011, which, in turn, was based on a presentation I gave in Barbara Partee&amp;rsquo;s semantics class in the spring of 2008. It is for this reason that I omit most of the arguments for the pronominal nature of kendisi and present a formalisation of its semantic properties based on Partee 1983 and Elbourne 2008.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Dependency and discourse-configurationality</title>
+      <link>https://pavelrudnev.github.io/writing/dependency-and-discourse-configurationality/</link>
+      <pubDate>Sun, 15 Feb 2015 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/dependency-and-discourse-configurationality/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The present thesis provides a detailed description of the syntactic and semantic properties of a number of related constructions in Avar, a Northeast Caucasian language. These include relativisation, wh-questions and focus sentences, all of which are created via a dependency between an abstract operator and a variable. In addition to the description a generative analysis is developed whereby the relative clause is treated as the structural core for the remaining constructions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Рефлексивы в дагестанских языках и природа анафорических отношений</title>
+      <link>https://pavelrudnev.github.io/writing/refleksivy-v-dagestanskix/</link>
+      <pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/refleksivy-v-dagestanskix/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I discuss the data from North-East Caucasian languages from the perspective of current views on the syntax and semantics of anaphora.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Breaking the coreference rule: Reflexivity in Russian Sign Language</title>
+      <link>https://pavelrudnev.github.io/writing/breaking-coreference/</link>
+      <pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/breaking-coreference/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper is concerned with the distribution of reflexive and non-reflexive pronouns in local anaphoric configurations in (three dialects of) Russian Sign Language (RSL). We demonstrate that most of the observed facts can be accounted for on a Binding Theory supplemented by a version of the Coreference Rule (Büring 2005). We also show that an additional mechanism, &lt;em&gt;coreference via the signing space&lt;/em&gt;, is required to explain certain cases of non-complementarity. A related mechanism is proposed to account for similar facts in spoken languages.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Why Turkish _kendisi_ is a pronominal</title>
+      <link>https://pavelrudnev.github.io/writing/why-kendisi-is-a-pronominal/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/why-kendisi-is-a-pronominal/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper is concerned with the syntax and semantics of the Turkish pronominal element &lt;em&gt;kendisi&lt;/em&gt; ‘self.3SG’ that has so far received very little attention in the literature on anaphoric relations. We start out by examining the properties of this pronoun proceeding next to discuss the few existing proposals highlighting their inadequacies when confronted with novel data. We argue that despite its reflexive root, &lt;em&gt;kendisi&lt;/em&gt; should be treated as a pronominal for the purposes of the Binding Theory, and should be sensitive to Condition B.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Review of Hicks, Glyn. 2009. _The derivation of anaphoric relations_. John Benjamins: Amsterdam/Philadelphia</title>
+      <link>https://pavelrudnev.github.io/writing/osla-review/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 UTC</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/osla-review/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper reviews the derivational approach to binding as proposed by Glyn Hicks.&lt;/p&gt;
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
