@@ -26,14 +26,14 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 10 Apr 2019 12:31:05 MSK</updated>
+    <updated>Wed, 10 Apr 2019 13:55:41 MSK</updated>
 
 
 <item>
-<title>Writings</title>
-<link>https://pavelrudnev.github.io/writing/</link>
+<title>Presentations</title>
+<link>https://pavelrudnev.github.io/presentation/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/writing/</guid>
+<guid>https://pavelrudnev.github.io/presentation/</guid>
 <description></description>
 </item>
     
@@ -42,6 +42,103 @@
 <link>https://pavelrudnev.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Towards an exhaustification analysis of plain disjunction in Russian</title>
+<link>https://pavelrudnev.github.io/presentation/2019/farl3/</link>
+<pubDate>Tue, 09 Apr 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2019/farl3/</guid>
+<description>&lt;p&gt;It has been known since at least Szabolcsi 2002 that the Russian plain disjunction marker &lt;em&gt;ili&lt;/em&gt; behaves as a positive polarity item (PPI) when occurring under clausemate negation, which manifests itself in a violation of De Morgan’s laws. Among properties which the Russian plain disjunction marker &lt;em&gt;ili&lt;/em&gt; shares with conventional PPIs such as
+&lt;em&gt;some&lt;/em&gt; are the locality of anti-licensing and the ability to be rescued by a second negation.&lt;/p&gt;
+
+&lt;p&gt;The Russian plain disjunction marker &lt;em&gt;ili&lt;/em&gt; displays variable behaviour with respect to PPI-hood when interacting with Ā-movement. When the disjunction phrase appears to the left of the sentential negation marker &lt;em&gt;ne&lt;/em&gt; ‘not’, the narrow-scope reading is strongly preferred. Exhaustification-based analyses of scalar inferences (Chierchia, Fox &amp;amp; Spector 2012, Spector 2014, Nicolae 2017) derive the basic pattern effortlessly but struggle with accounting for the observed obviation effects under syntactic fronting, as it is not clear if the account should be semantic or syntactic. Potential arguments for the syntactic approach would be the involvement of syntactic movement and the plausibility of the sentential negation marker &lt;em&gt;ne&lt;/em&gt; being merely a negative concord item/NPI rather than the fully-fledged negation (Zeijlstra 2004). On this view, moving the disjunction phrase past the negation marker and closer to the negation operator Op¬ in the left periphery would enable the disjunction to scope under negation. Movement is thus the cause of the obviation effect but it is unclear what mechanism gives rise to the anti-licensing effect in the first place.&lt;/p&gt;
+
+&lt;p&gt;This paper sketches, instead, a meaning-based account of both the positive-polarity behaviour of the plain disjunction marker &lt;em&gt;ili&lt;/em&gt; and the circumstances of obviation. To account for the general pattern of the inability of &lt;em&gt;ili&lt;/em&gt; to scope under clausemate negation, I follow Nicolae (2017) in claiming that the scalar inference accompanying disjunction arises due to the interaction of a covert exhaustification operator &lt;strong&gt;Exh&lt;/strong&gt; and a covert necessity modal, which renders the otherwise non-innocently excludable alternatives in upward-entailing contexts innocently excludable. In the case of plain disjunction (as opposed to complex disjunction, Spector 2014), the exhaustifier &lt;strong&gt;Exh&lt;/strong&gt; only manipulates domain alternatives. The incompatibility with negation results, on this view, from a ban on vacuous exhaustification: if an LF containing Exh does not yield a strengthened meaning, it is ruled inadmissible.&lt;/p&gt;
+
+&lt;p&gt;Two sets of facts speak in favour of a meaning-based analysis of PPI obviation effects when the disjunction phrase undergoes Ā-movement: (i) obviation is sensitive to the interpretation of the Ā-moved item (topic; *focus); (ii) when multiple disjunction phrases are fronted, only one, rather than all, of them can scope under negation. Topicalisation would create additional alternatives alongside the already defined domain alternatives, and exhaustification would not be vacuous. This is in line with Nicolae’s (2017) suggestion that PPI-disjunctions take into account both the truth-conditional and non-truth-conditional meaning. On this view, fronting will not be the cause of obviation effect but rather a byproduct of topicality, given the fact that Russian topics are typically fronted.&lt;/p&gt;
+
+&lt;p&gt;You can view the slides &lt;a href=&#34;https://pavelrudnev.github.io/papers/farl2019-slides.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Against Upwards Agree: A view from Daghestan</title>
+<link>https://pavelrudnev.github.io/presentation/2019/formlab-agreement/</link>
+<pubDate>Fri, 22 Mar 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2019/formlab-agreement/</guid>
+<description>&lt;p&gt;This talk discusses a recent approach to ϕ-agreement as formulated in Bjorkman &amp;amp; Zeijlstra to appear. According to that approach, all probing relations are established by probing “upwards”, and all exceptions traditionally analysed as involving probing “downwards” are viewed as being parasitic on such Upwards-Agree relations. By looking at (ϕ)-agreement patterns in two morphologically ergative East-Caucasian languages, Mehweb and Avar, I identify what I view as insurmountable empirical hurdles to Bjorkman &amp;amp; Zeijlstra&amp;rsquo;s analysis. I also identify a number of conceptual issues with their analysis.&lt;/p&gt;
+
+&lt;p&gt;You can view the slides &lt;a href=&#34;https://pavelrudnev.github.io/papers/formal-lab-agreement-slides.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Features in Minimalist syntax</title>
+<link>https://pavelrudnev.github.io/presentation/2019/formlab-features/</link>
+<pubDate>Fri, 01 Mar 2019 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2019/formlab-features/</guid>
+<description>&lt;p&gt;This talks provides an overview of approaches to featural dependencies in current minimalist work starting from Chomsky (1995). I also discuss aspects of the theory of feature structure which, though often taken for granted, present non-trivial challenges to developing explanatory analyses of featural dependencies. In addition to ϕ-features, the features I discuss are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;interpretable *vs.* uninterpretable&lt;/li&gt;
+&lt;li&gt;valued *vs.* unvalued&lt;/li&gt;
+&lt;li&gt;second-order features/EPP-features&lt;/li&gt;
+&lt;li&gt;features-of-features ([E]-features)&lt;/li&gt;
+&lt;li&gt;formal wh-features&lt;/li&gt;
+&lt;li&gt;formal information-structural features
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I conclude, in broad agreement with Šimík (2012) and Boeckx (2015), that the only domain where postulating formal features does not lead to problems are morphosyntactic agreement phenomena.&lt;/p&gt;
+
+&lt;p&gt;You can view the (Russian-language) slides &lt;a href=&#34;https://pavelrudnev.github.io/papers/Presentation.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Agreeing adpositions in Avar and theories of Agree</title>
+<link>https://pavelrudnev.github.io/presentation/2018/agreeing-adpositions-in-avar/</link>
+<pubDate>Fri, 14 Dec 2018 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2018/agreeing-adpositions-in-avar/</guid>
+<description>&lt;p&gt;Given the central spot afforded to unvalued features in current
+minimalist theorizing, the directionality of feature valuation is the
+subject of a lively debate in the syntactic literature. The
+traditional conception of upward valuation, whereby the unvalued probe
+inherits features from a valued goal in its c-command domain (Chomsky
+2000, 2001, Carstens &amp;amp; Diercks 2013, Preminger 2013), has to compete
+with downward valuation (Zeijlstra 2012), Hybrid Agree (Bjorkman &amp;amp;
+Zeijlstra to appear), bidirectional Agree (Baker 2008), amongst others.&lt;/p&gt;
+
+&lt;p&gt;This talk discusses, using data from Avar, a crosslinguistically rare
+phenomenon of adposition agreement, whereby certain adverbs,
+postpositions and locative-marked noun phrases undergo agreement with
+an absolutive argument. I show that the agreement morphology on
+agreeing adpositions is a result of agreement rather than concord, and
+explore the consequences of adposition agreement in Avar for upward
+and downward valuation. I conclude that the traditional conception of
+upward valuation is both conceptually and empirically superior to its
+alternatives.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>East Caucasian coordination</title>
+<link>https://pavelrudnev.github.io/presentation/2018/east-caucasian-disjunction/</link>
+<pubDate>Fri, 26 Oct 2018 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2018/east-caucasian-disjunction/</guid>
+<description>&lt;p&gt;This talk discusses East Caucasian coordination strategies from the viewpoint of recent decompositional approaches to “logical” vocabulary (words like &lt;em&gt;and&lt;/em&gt;, &lt;em&gt;or&lt;/em&gt;, &lt;em&gt;not&lt;/em&gt; etc.) as pursued by Mitrović (2014). Focusing on the predictions of that analysis concerning the unavoidability of exclusivity inferences in the case of reduplicated pairs of μ- and κ-particles, I identify a disjunction strategy in Avar that casts doubt on the universality of the analysis and suggest possible workarounds.&lt;/p&gt;
+
+&lt;p&gt;The handout is available &lt;a href=&#34;https://pavelrudnev.github.io/papers/andic-seminar-26-10-2018.md.handout.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>https://pavelrudnev.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/</guid>
 <description></description>
 </item>
     
@@ -78,14 +175,6 @@ wide scope.&lt;/p&gt;
 
 &lt;p&gt;The paper is currently down for revision; yet, if you feel you would like an intermediate draft of it, please get in touch with me.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>https://pavelrudnev.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -834,37 +923,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 <guid>https://pavelrudnev.github.io/presentation/2010/quantification-possession/</guid>
 <description>&lt;p&gt;This is an invited talk at the &lt;a href=&#34;https://syntaxlab.weblog.leidenuniv.nl/&#34;&gt;Leiden Syntax Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Breaking the Coreference Rule</title>
-<link>https://pavelrudnev.github.io/presentation/2010/coreference-rule-stuttgart/</link>
-<pubDate>Wed, 30 Nov 2011 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2010/coreference-rule-stuttgart/</guid>
-<description>&lt;p&gt;(with Vadim Kimmelman)&lt;/p&gt;
-
-&lt;p&gt;In this talk we present a detailed description of the behaviour of various classes of (anaphoric) pronouns in three dialects of the Russian Sign Language and compare them with the distribution of similar pronouns in Turkish.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, binding theory, Russian Sign Language, Turkish, coreference&lt;/p&gt;
-
-&lt;p&gt;This is a peer-reviewed talk at the &lt;a href=&#34;http://www.ilg.uni-stuttgart.de/forschung/konferenz/binding2010/program.html&#34;&gt;Peculiar Binding Configurations&lt;/a&gt; workshop  at the &lt;a href=&#34;http://uni-stuttgart.de&#34;&gt;University of Stuttgart&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Tags</title>
-<link>https://pavelrudnev.github.io/tags/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/tags/</guid>
-<description></description>
-</item>
-    
-<item>
-<title>Categories</title>
-<link>https://pavelrudnev.github.io/categories/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/categories/</guid>
-<description></description>
 </item>
     
   </channel>
