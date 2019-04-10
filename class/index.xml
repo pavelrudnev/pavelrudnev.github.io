@@ -1,346 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:admin="http://webns.net/mvcb/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
-<channel>
-      <title>Classes in Pavel Rudnev’s website </title>
-	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
-	  <itunes:author>Greg Restall</itunes:author>
-	  <itunes:owner>
-	  <itunes:name>Greg Restall</itunes:name>
-	  <itunes:email>greg@consequently.org</itunes:email>
-	  </itunes:owner>
-	  <itunes:category text="Education">
-	  <itunes:category text="Higher Education"/>
-	  </itunes:category>
-	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
-	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="https://pavelrudnev.github.io/img/avatar2.jpg" />
-      <generator uri="https://gohugo.io">Hugo</generator>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on Pavel Rudnev’s website</title>
     <link>https://pavelrudnev.github.io/class/</link>
+    <description>Recent content in Classes on Pavel Rudnev’s website</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pavelrudnev.github.io/class/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <updated>Sat, 01 Sep 2018 00:00:00 UTC</updated>
-    
- 
     <item>
       <title>Formal Representation of Natural Language</title>
       <link>https://pavelrudnev.github.io/class/2018/hse-frnl/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/class/2018/hse-frnl/</guid>
-      <description>&lt;![CDATA[
-
-&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-
-&lt;p&gt;The course will provide the following learning outcomes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;To understand the logic behind several important theories of syntax and its interactions with sound and meaning.&lt;/li&gt;
-&lt;li&gt;To be able to apply that understanding to evaluate the relevance of those theories and their limitations with respect to Russian.&lt;/li&gt;
-&lt;li&gt;To be able to apply the scientific method to analyse several empirical phenomena in Russian.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;assessment&#34;&gt;Assessment&lt;/h3&gt;
-
-&lt;p&gt;The course will be assessed by one 4,500-word essay critically reviewing one original research article pertaining to the course&amp;rsquo;s main topics.&lt;/p&gt;
-
-&lt;h3 id=&#34;preliminary-timeline&#34;&gt;Preliminary timeline&lt;/h3&gt;
-
-&lt;h4 id=&#34;lecture-1-introduction&#34;&gt;Lecture 1: Introduction&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Grammar as science
-
-&lt;ul&gt;
-&lt;li&gt;the scientific method (descriptive and explanatory &lt;em&gt;vs.&lt;/em&gt; prescriptive; potential clashes)&lt;/li&gt;
-&lt;li&gt;asbtract models of knowledge&lt;/li&gt;
-&lt;li&gt;hierarchical structure&lt;/li&gt;
-&lt;li&gt;word classes&lt;/li&gt;
-&lt;li&gt;lexical and functional categories&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-2-syntax&#34;&gt;Lecture 2: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fundamental concepts
-
-&lt;ul&gt;
-&lt;li&gt;morphemes, words, phrases, sentences&lt;/li&gt;
-&lt;li&gt;heads and their dependents&lt;/li&gt;
-&lt;li&gt;constituent structure&lt;/li&gt;
-&lt;li&gt;constituency tests&lt;/li&gt;
-&lt;li&gt;structural relations
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-3-syntax&#34;&gt;Lecture 3: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;sentences and constituents
-
-&lt;ul&gt;
-&lt;li&gt;adjuncts, complements and specifiers&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;syntactic processes
-
-&lt;ul&gt;
-&lt;li&gt;movement&lt;/li&gt;
-&lt;li&gt;restrictions on movement&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-4-syntax&#34;&gt;Lecture 4: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;syntactic processes
-
-&lt;ul&gt;
-&lt;li&gt;movement and information structure&lt;/li&gt;
-&lt;li&gt;scrambling, focus fronting, topicalisation
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-5-syntax-semantics&#34;&gt;Lecture 5: Syntax/Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Negation and polarity in Russian
-
-&lt;ul&gt;
-&lt;li&gt;negative concord, polarity licensing&lt;/li&gt;
-&lt;li&gt;positive polarity and disjunction&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-6-semantics&#34;&gt;Lecture 6: Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meaning and structure
-
-&lt;ul&gt;
-&lt;li&gt;compositionality&lt;/li&gt;
-&lt;li&gt;syntax-to-semantics mapping&lt;/li&gt;
-&lt;li&gt;semantics primer: sets and functions&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-7-semantics&#34;&gt;Lecture 7: Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;fundamentals of tense, aspect and &lt;em&gt;aktionsart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;tense and aspect in clausal architecture&lt;/li&gt;
-&lt;li&gt;lexical and superlexical prefixes in Russian&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
+      <description>Introduction The course will provide the following learning outcomes:
+ To understand the logic behind several important theories of syntax and its interactions with sound and meaning. To be able to apply that understanding to evaluate the relevance of those theories and their limitations with respect to Russian. To be able to apply the scientific method to analyse several empirical phenomena in Russian.  Assessment The course will be assessed by one 4,500-word essay critically reviewing one original research article pertaining to the course&amp;rsquo;s main topics.</description>
     </item>
     
- 
     <item>
       <title>Theory in Language Description</title>
       <link>https://pavelrudnev.github.io/class/2018/hse-theory-language-description/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/class/2018/hse-theory-language-description/</guid>
-      <description>&lt;![CDATA[
-
-&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-
-&lt;p&gt;The course will provide the following learning outcomes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;learning the architecture and the internal logic of individual theoretical models on various levels of language
-structure, including phonology, morphophonology, syntax, semantics and discourse&lt;/li&gt;
-&lt;li&gt;developing skills in application of these theories in modelling empirical data and describing individual
-languages&lt;/li&gt;
-&lt;li&gt;training in formal and not-so-formal linguistic theories and way of theoretical thinking they are associated
-with&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The topic for my part of this course is &lt;strong&gt;Modularity in linguistic theory&lt;/strong&gt;, and the discussion will focus on the tension between Minimalism and Cartography and the relationship between syntax and information structure.&lt;/p&gt;
-]]></description>
+      <description>Introduction The course will provide the following learning outcomes:
+ learning the architecture and the internal logic of individual theoretical models on various levels of language structure, including phonology, morphophonology, syntax, semantics and discourse developing skills in application of these theories in modelling empirical data and describing individual languages training in formal and not-so-formal linguistic theories and way of theoretical thinking they are associated with  The topic for my part of this course is Modularity in linguistic theory, and the discussion will focus on the tension between Minimalism and Cartography and the relationship between syntax and information structure.</description>
     </item>
     
- 
     <item>
       <title>Formal Models in Linguistics</title>
       <link>https://pavelrudnev.github.io/class/2017/hse-formal-models/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 UTC</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/class/2017/hse-formal-models/</guid>
-      <description>&lt;![CDATA[
-
-&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-
-&lt;p&gt;The course will provide the following learning outcomes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;To understand the logic behind several important theories of syntax and its interactions with sound and meaning.&lt;/li&gt;
-&lt;li&gt;To be able to apply that understanding to evaluate the relevance of those theories and their limitations with respect to Russian.&lt;/li&gt;
-&lt;li&gt;To be able to apply the scientific method to analyse several empirical phenomena in Russian.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;assessment&#34;&gt;Assessment&lt;/h3&gt;
-
-&lt;p&gt;The course will be assessed by one 4,500-word essay critically reviewing one original research article pertaining to the course&amp;rsquo;s main topics.&lt;/p&gt;
-
-&lt;h3 id=&#34;preliminary-timeline&#34;&gt;Preliminary timeline&lt;/h3&gt;
-
-&lt;h4 id=&#34;lecture-1-introduction&#34;&gt;Lecture 1: Introduction&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Grammar as science
-
-&lt;ul&gt;
-&lt;li&gt;the scientific method (descriptive and explanatory &lt;em&gt;vs.&lt;/em&gt; prescriptive; potential clashes)&lt;/li&gt;
-&lt;li&gt;asbtract models of knowledge&lt;/li&gt;
-&lt;li&gt;hierarchical structure&lt;/li&gt;
-&lt;li&gt;word classes&lt;/li&gt;
-&lt;li&gt;lexical and functional categories&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-2-syntax&#34;&gt;Lecture 2: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fundamental concepts
-
-&lt;ul&gt;
-&lt;li&gt;morphemes, words, phrases, sentences&lt;/li&gt;
-&lt;li&gt;heads and their dependents&lt;/li&gt;
-&lt;li&gt;constituent structure&lt;/li&gt;
-&lt;li&gt;constituency tests&lt;/li&gt;
-&lt;li&gt;structural relations
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-3-syntax&#34;&gt;Lecture 3: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;sentences and constituents
-
-&lt;ul&gt;
-&lt;li&gt;adjuncts, complements and specifiers&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;syntactic processes
-
-&lt;ul&gt;
-&lt;li&gt;movement&lt;/li&gt;
-&lt;li&gt;restrictions on movement&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-4-syntax&#34;&gt;Lecture 4: Syntax&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;syntactic processes
-
-&lt;ul&gt;
-&lt;li&gt;movement and information structure&lt;/li&gt;
-&lt;li&gt;scrambling, focus fronting, topicalisation
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-5-syntax-semantics&#34;&gt;Lecture 5: Syntax/Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Negation and polarity in Russian
-
-&lt;ul&gt;
-&lt;li&gt;negative concord, polarity licensing&lt;/li&gt;
-&lt;li&gt;positive polarity and disjunction&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-6-semantics&#34;&gt;Lecture 6: Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meaning and structure
-
-&lt;ul&gt;
-&lt;li&gt;compositionality&lt;/li&gt;
-&lt;li&gt;syntax-to-semantics mapping&lt;/li&gt;
-&lt;li&gt;semantics primer: sets and functions&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;lecture-7-semantics&#34;&gt;Lecture 7: Semantics&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;fundamentals of tense, aspect and &lt;em&gt;aktionsart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;tense and aspect in clausal architecture&lt;/li&gt;
-&lt;li&gt;lexical and superlexical prefixes in Russian&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
+      <description>Introduction The course will provide the following learning outcomes:
+ To understand the logic behind several important theories of syntax and its interactions with sound and meaning. To be able to apply that understanding to evaluate the relevance of those theories and their limitations with respect to Russian. To be able to apply the scientific method to analyse several empirical phenomena in Russian.  Assessment The course will be assessed by one 4,500-word essay critically reviewing one original research article pertaining to the course&amp;rsquo;s main topics.</description>
     </item>
     
- 
     <item>
       <title>LBU001B05: The Language Situation in the Low Countries</title>
       <link>https://pavelrudnev.github.io/class/2016/lbu001b05-lang-sit-low-count/</link>
-      <pubDate>Fri, 05 Feb 2016 00:00:00 UTC</pubDate>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/class/2016/lbu001b05-lang-sit-low-count/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;This course surveys the nature and history of the Dutch language and its position in
-the Netherlands and Belgium today.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction: the languages of the Netherlands and Belgium&lt;/li&gt;
-&lt;li&gt;Essentials of the Dutch language: phonology&lt;/li&gt;
-&lt;li&gt;Essentials of the Dutch language: syntax&lt;/li&gt;
-&lt;li&gt;The history of Dutch&lt;/li&gt;
-&lt;li&gt;The history of Dutch (cont’d)&lt;/li&gt;
-&lt;li&gt;Dutch orthography&lt;/li&gt;
-&lt;li&gt;Purism and school grammar&lt;/li&gt;
-&lt;li&gt;Dialects of Dutch; Frisian&lt;/li&gt;
-&lt;li&gt;Dutch-based creole languages; Afrikaans&lt;/li&gt;
-&lt;li&gt;Dutch sociolinguistics&lt;/li&gt;
-&lt;/ol&gt;
-]]></description>
+      <description>This course surveys the nature and history of the Dutch language and its position in the Netherlands and Belgium today.
+ Introduction: the languages of the Netherlands and Belgium Essentials of the Dutch language: phonology Essentials of the Dutch language: syntax The history of Dutch The history of Dutch (cont’d) Dutch orthography Purism and school grammar Dialects of Dutch; Frisian Dutch-based creole languages; Afrikaans Dutch sociolinguistics  </description>
     </item>
     
- 
-    <item>
-      <title>LTX020P05: Syntaxis 1</title>
-      <link>https://pavelrudnev.github.io/class/2015/zinsleer-groningen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 UTC</pubDate>
-      
-      <guid>https://pavelrudnev.github.io/class/2015/zinsleer-groningen/</guid>
-      <description>&lt;![CDATA[&lt;ul&gt;
-&lt;li&gt;De student is bekend met basisbegrippen uit de syntaxis, en is in staat deze te hanteren. In het bijzonder kan de student de belangrijkste morfosyntactische verschijnselen in vertrouwde en minder vertrouwde talen herkennen, analyseren en benoemen. Daarbij kan hij/zij geannoteerde taaldata lezen en begrijpen, en ook zelf taaldata annoteren volgens de wetenschappelijke standaard. (K1)&lt;/li&gt;
-&lt;li&gt;De student kan de syntactische structuur van een Nederlandse zin vaststellen door de onderdelen van de zin te identificeren en te benoemen, en de gekozen analyse te beargumenteren aan de hand van diagnostische tests.(K2)&lt;/li&gt;
-&lt;li&gt;De student kent basale syntactische analysemethoden.(K3)&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
-    </item>
-    
- 
     <item>
       <title>BM ang060 Part 1:  Introduction to Linguistics and the English Language</title>
       <link>https://pavelrudnev.github.io/class/2015/basismodul-oldenburg/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/class/2015/basismodul-oldenburg/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;This course introduces the basic concepts, methods and fields of linguistics and deals with language as a cognitive ability as well as language as a system. In the first term, special emphasis will be on the phonological, morphological and syntactic properties of English.&lt;/p&gt;
-
-&lt;p&gt;There are 9 lectures grouped in blocks and interspersed by reading weeks (please, check &lt;a href=&#34;https://elearning.uni-oldenburg.de/dispatch.php/course/details/index/34bf203ee9731de1de5a44b708ed0ee9&#34;&gt;StudIP&lt;/a&gt; for the syllabus and exact dates and times).&lt;/p&gt;
-
-&lt;p&gt;The course will be accompanied by weekly exercises, which are compulsory, accompany the lecture and independently treat the phonology of English (see StudIP for the syllabus). There are also optional tutorials which are highly recommended for getting accustomed to terminology and methodology. In summer, the module will be complemented by a course on the phonetics, semantics/pragmatics and history of the English language.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reading:&lt;/strong&gt; A reader will be distributed during the first lectures.&lt;/p&gt;
-
-&lt;p&gt;The material for the phonology part will be made available as powerpoint presentations after each exercise session.&lt;/p&gt;
-]]></description>
+      <description>This course introduces the basic concepts, methods and fields of linguistics and deals with language as a cognitive ability as well as language as a system. In the first term, special emphasis will be on the phonological, morphological and syntactic properties of English.
+There are 9 lectures grouped in blocks and interspersed by reading weeks (please, check StudIP for the syllabus and exact dates and times).
+The course will be accompanied by weekly exercises, which are compulsory, accompany the lecture and independently treat the phonology of English (see StudIP for the syllabus).</description>
+    </item>
+    
+    <item>
+      <title>LTX020P05: Syntaxis 1</title>
+      <link>https://pavelrudnev.github.io/class/2015/zinsleer-groningen/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/class/2015/zinsleer-groningen/</guid>
+      <description>De student is bekend met basisbegrippen uit de syntaxis, en is in staat deze te hanteren. In het bijzonder kan de student de belangrijkste morfosyntactische verschijnselen in vertrouwde en minder vertrouwde talen herkennen, analyseren en benoemen. Daarbij kan hij/zij geannoteerde taaldata lezen en begrijpen, en ook zelf taaldata annoteren volgens de wetenschappelijke standaard. (K1) De student kan de syntactische structuur van een Nederlandse zin vaststellen door de onderdelen van de zin te identificeren en te benoemen, en de gekozen analyse te beargumenteren aan de hand van diagnostische tests.</description>
     </item>
     
   </channel>

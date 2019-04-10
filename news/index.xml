@@ -1,103 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:admin="http://webns.net/mvcb/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
-<channel>
-      <title>News in Pavel Rudnev’s website </title>
-	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
-	  <itunes:author>Greg Restall</itunes:author>
-	  <itunes:owner>
-	  <itunes:name>Greg Restall</itunes:name>
-	  <itunes:email>greg@consequently.org</itunes:email>
-	  </itunes:owner>
-	  <itunes:category text="Education">
-	  <itunes:category text="Higher Education"/>
-	  </itunes:category>
-	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
-	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="https://pavelrudnev.github.io/img/avatar2.jpg" />
-      <generator uri="https://gohugo.io">Hugo</generator>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Pavel Rudnev’s website</title>
     <link>https://pavelrudnev.github.io/news/</link>
+    <description>Recent content in News on Pavel Rudnev’s website</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pavelrudnev.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <updated>Sun, 01 Jul 2018 00:00:00 UTC</updated>
-    
- 
     <item>
       <title>Grant from the Russian Science Foundation</title>
       <link>https://pavelrudnev.github.io/news/2018/rscf-grant/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 UTC</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2018/rscf-grant/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;A team of researchers at HSE, including myself, has recently been awarded a highly competitive and prestigious grant by the &lt;a href=&#34;https://rscf.ru&#34;&gt;&lt;strong&gt;Russian Science Foundation&lt;/strong&gt;&lt;/a&gt;. Over the next few years, we&amp;rsquo;ll be investigating non-finite constructions in a number of severely understudied languages of Russia (Avar, Bagwalal, Udi, Agul, Hill Mari, Meadow Mari, Northern Khanty, Chukchi). The project&amp;rsquo;s title is &lt;em&gt;When the verb isn&amp;rsquo;t a verb: Non-finite constructions in the languages of Russia&lt;/em&gt;, and you can read more about it &lt;a href=&#34;http://rscf.ru/en/enprjcard/?rid=18-78-10128&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-]]></description>
+      <description>A team of researchers at HSE, including myself, has recently been awarded a highly competitive and prestigious grant by the Russian Science Foundation. Over the next few years, we&amp;rsquo;ll be investigating non-finite constructions in a number of severely understudied languages of Russia (Avar, Bagwalal, Udi, Agul, Hill Mari, Meadow Mari, Northern Khanty, Chukchi). The project&amp;rsquo;s title is When the verb isn&amp;rsquo;t a verb: Non-finite constructions in the languages of Russia, and you can read more about it here.</description>
     </item>
     
- 
     <item>
       <title>Avar negation (talk at the Russian Academy of Sciences)</title>
       <link>https://pavelrudnev.github.io/news/2017/avar-negation-talk-ras/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 UTC</pubDate>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2017/avar-negation-talk-ras/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I have recently presented my ongoing work on the syntactico-semantic properties of negation in Avar in the Andic seminar at the Institute of Linguistics of the Russian Academy of Sciences. This was my first Russian-language presentation after a long lull.&lt;/p&gt;
-
-&lt;p&gt;In the talk, I argued that the rather idiosyncratic morphosyntactic properties of Avar negation, as well as the restrictions on the expression and interpretation of negation, can be accounted for in a framework postulating an ontological distinction between (sets of) events and (sets of) situations as conceptual underpinnings of the hierarchy of functional projections. In particular, I proposed that two negation strategies coëxist in Avar: a monoclausal one, familiar from better-studied languages, operates on non-past tense clauses, and the predicative one where the negation marker is essentially a copula which combines with a nominalised clause, expresses negation in the past tense.&lt;/p&gt;
-
-&lt;p&gt;The handout (in Russian) can be downloaded &lt;a href=&#34;https://pavelrudnev.github.io/papers/avar-negation-andi-seminar-ras-handout.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-]]></description>
+      <description>I have recently presented my ongoing work on the syntactico-semantic properties of negation in Avar in the Andic seminar at the Institute of Linguistics of the Russian Academy of Sciences. This was my first Russian-language presentation after a long lull.
+In the talk, I argued that the rather idiosyncratic morphosyntactic properties of Avar negation, as well as the restrictions on the expression and interpretation of negation, can be accounted for in a framework postulating an ontological distinction between (sets of) events and (sets of) situations as conceptual underpinnings of the hierarchy of functional projections.</description>
     </item>
     
- 
     <item>
       <title>IATL 33</title>
       <link>https://pavelrudnev.github.io/news/2017/upcoming-iatl33-presentation/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 UTC</pubDate>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2017/upcoming-iatl33-presentation/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I will present my recent work on the PPI-behaviour of the Russian plain disjunction marker &lt;em&gt;ili&lt;/em&gt; at the 33rd annual meeting of the &lt;a href=&#34;https://www.iatl.org.il/?page_id=1139&#34;&gt;Israel Association for Theoretical Linguistics&lt;/a&gt;. In the talk, I argue that that behaviour as well as the apparent exceptions can be derived from the phrasal versus clausal character of the disjunction, and the status of Russian as a negative concord language.&lt;/p&gt;
-]]></description>
+      <description>I will present my recent work on the PPI-behaviour of the Russian plain disjunction marker ili at the 33rd annual meeting of the Israel Association for Theoretical Linguistics. In the talk, I argue that that behaviour as well as the apparent exceptions can be derived from the phrasal versus clausal character of the disjunction, and the status of Russian as a negative concord language.</description>
     </item>
     
- 
     <item>
       <title>New job come September</title>
       <link>https://pavelrudnev.github.io/news/2017/new-job-hse/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2017/new-job-hse/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I’ve been awarded a postdoctoral research fellowship in linguistics at the &lt;a href=&#34;https://ling.hse.ru/en&#34;&gt;School of Linguistics&lt;/a&gt; at the &lt;a href=&#34;https://hse.ru/en/&#34;&gt;National Research University Higher School of Economics&lt;/a&gt; in Moscow, to commence on 1 September 2017.&lt;/p&gt;
-]]></description>
+      <description>I’ve been awarded a postdoctoral research fellowship in linguistics at the School of Linguistics at the National Research University Higher School of Economics in Moscow, to commence on 1 September 2017.</description>
     </item>
     
- 
     <item>
       <title>FARL 2017</title>
       <link>https://pavelrudnev.github.io/news/2017/farl-talk-2017/</link>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2017/farl-talk-2017/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I presented my recent work on the PPI-behaviour of the Russian plain disjunction markers &lt;em&gt;ili&lt;/em&gt; and &lt;em&gt;libo&lt;/em&gt; at the second installment of the &lt;a href=&#34;http://otipl.philol.msu.ru/library/seminars/farl/farl2_main.php&#34;&gt;Formal Approaches to Russian Linguistics&lt;/a&gt; workshop in Moscow.&lt;/p&gt;
-]]></description>
+      <description>I presented my recent work on the PPI-behaviour of the Russian plain disjunction markers ili and libo at the second installment of the Formal Approaches to Russian Linguistics workshop in Moscow.</description>
     </item>
     
- 
     <item>
       <title>A New Paper</title>
       <link>https://pavelrudnev.github.io/news/2017/a-new-paper/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 UTC</pubDate>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pavelrudnev.github.io/news/2017/a-new-paper/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;My paper on long-distance anaphora in Avar has finally appeared in &lt;em&gt;Studia Linguistica&lt;/em&gt;. In it I offer a detailed description of the distribution of two long-distance reflexives&amp;mdash;&lt;em&gt;žiwgo&lt;/em&gt; and &lt;em&gt;žiw&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;If this looks interesting to you, please &lt;a href=&#34;https://pavelrudnev.github.io/papers/minimalpronouns/&#34;&gt;take a look&lt;/a&gt;. I&amp;rsquo;d appreciate your feedback. Thanks!&lt;/p&gt;
-]]></description>
+      <description>My paper on long-distance anaphora in Avar has finally appeared in Studia Linguistica. In it I offer a detailed description of the distribution of two long-distance reflexives&amp;mdash;žiwgo and žiw.
+If this looks interesting to you, please take a look. I&amp;rsquo;d appreciate your feedback. Thanks!</description>
     </item>
     
   </channel>
