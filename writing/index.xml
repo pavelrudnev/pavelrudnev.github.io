@@ -6,10 +6,20 @@
     <description>Recent content in Writings on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adposition agreement in Avar and the directionality of valuation debate</title>
+      <link>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</guid>
+      <description>Abstract
+Given the central spot afforded to unvalued features in current theorizing, the directionality of feature valuation is the subject of a lively debate in the syntactic literature. The traditional conception of upward valuation, whereby the unvalued probe inherits features from a valued goal in its c-command domain (Chomsky 2000, 2001a, Carstens 2013, Preminger 2013), has to compete with downward valuation (Zeijlstra 2012), Hybrid Agree (Bjorkman &amp;amp; Zeijlstra 2018), bidirectional Agree (Baker 2008), amongst others.</description>
+    </item>
     
     <item>
       <title>Binding and agreement in Avar support the encapsulation analysis of the Anaphor Agreement Effect</title>
@@ -27,16 +37,6 @@
       
       <guid>https://pavelrudnev.github.io/writing/rsl-phonology/</guid>
       <description>The present paper applies Multiple Correspondence Analysis to test the validity of an existing theoretical model of the phonological system of Russian Sign Language (RSL). We show that comparing the importance of phonological features using ratio plots and MCA is a promising way of revealing non-binary oppositions in phonological systems of human languages irrespective of modality.</description>
-    </item>
-    
-    <item>
-      <title>Adposition agreement in Avar and the directionality of valuation debate</title>
-      <link>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavelrudnev.github.io/writing/agreeing-adpositions-in-avar/</guid>
-      <description>Abstract
-Given the central spot afforded to unvalued features in current theorizing, the directionality of feature valuation is the subject of a lively debate in the syntactic literature. The traditional conception of upward valuation, whereby the unvalued probe inherits features from a valued goal in its c-command domain (Chomsky 2000, 2001a, Carstens 2013, Preminger 2013), has to compete with downward valuation (Zeijlstra 2012), Hybrid Agree (Bjorkman &amp;amp; Zeijlstra 2018), bidirectional Agree (Baker 2008), amongst others.</description>
     </item>
     
     <item>
