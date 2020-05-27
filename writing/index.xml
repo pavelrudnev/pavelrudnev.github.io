@@ -6,10 +6,19 @@
     <description>Recent content in Writings on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Not all obligatory control is movement</title>
+      <link>https://pavelrudnev.github.io/writing/oblique-control/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/oblique-control/</guid>
+      <description>This paper presents two challenges for the analysis of promise-type verbs within the Movement Theory of Control. We show that the objects of these verbs in Russian are not prepositional and are incorrectly predicted to be legitimate controllers. We also argue, based on the patterns of polarity licensing, scope licensing and case marking on floating quantifiers, against analysing oblique control as sidewards movement.</description>
+    </item>
     
     <item>
       <title>Case marking in Russian eventive nominalisations revisited</title>

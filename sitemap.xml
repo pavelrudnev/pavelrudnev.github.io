@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pavelrudnev.github.io/writing/oblique-control/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pavelrudnev.github.io/writing/russian-nominalisations/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
@@ -291,7 +296,7 @@
   
   <url>
     <loc>https://pavelrudnev.github.io/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -308,7 +313,7 @@
   
   <url>
     <loc>https://pavelrudnev.github.io/writing/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
