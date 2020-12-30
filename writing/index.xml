@@ -6,10 +6,20 @@
     <description>Recent content in Writings on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Against Upwards Agree</title>
+      <link>https://pavelrudnev.github.io/writing/against-ua/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/against-ua/</guid>
+      <description>Abstract
+Bjorkman &amp;amp; Zeijlstra (2019) claim that agreement with the absolutive argument in ergative-absolutive languages follows naturally in an Upwards-Agree system supplemented by the relation of Accessibility if φ-agreement is parasitic on structural case assigned to the absolutive noun phrase either by T° or by v°. By drawing evidence from two distantly related East Caucasian languages—Chirag and Avar—the present article argues that this theory is both too strong and too weak.</description>
+    </item>
     
     <item>
       <title>Agreeing adpositions in Avar and the directionality of valuation debate</title>
