@@ -26,7 +26,7 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 30 Dec 2020 11:26:42 MSK</updated>
+    <updated>Thu, 31 Dec 2020 11:06:12 MSK</updated>
 
 
 <item>
@@ -74,6 +74,51 @@
 </item>
     
 <item>
+<title>Presentations</title>
+<link>https://pavelrudnev.github.io/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>In support of post-syntactic head movement: Loanword accommodation in Kunbarlang verb phrases</title>
+<link>https://pavelrudnev.github.io/presentation/2020/tmp2020/</link>
+<pubDate>Thu, 08 Oct 2020 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2020/tmp2020/</guid>
+<description>
+
+&lt;p&gt;Since the early 1990s the verb phrase is generally thought to be built from acategorial roots which are categorised via Merge with functional projections, such as v (see e.g. Marantz 1997). One of the questions about this architecture concerns the nature of head movement: is it syntactic (e.g. Travis 1984) or post-syntactic (e.g. Platzack 2013). In this paper we adduce novel data to argue that it cannot be reduced just to the former option (contra e.g. Arregi &amp;amp; Pietraszko 2020), but that post-syntactic movement is necessary.&lt;/p&gt;
+
+&lt;p&gt;Kunbarlang, an endangered polysynthetic Gunwinyguan language from northern Australia, has three formally different ways of forming a verb phrase with two overt predicative elements: (i) the &lt;strong&gt;complex stem&lt;/strong&gt; consists of a &lt;em&gt;prepound&lt;/em&gt; and a &lt;em&gt;thematic&lt;/em&gt;, which determines the stem’s formal aspects, such as its conjugation class; (ii) the &lt;strong&gt;coverb construction&lt;/strong&gt;, in which a predicative element (coverb) encliticises to an inflected light verb; (iii) the &lt;strong&gt;preverb construction&lt;/strong&gt;, in which an English verb combines with the light verb &lt;em&gt;-ngundje&lt;/em&gt; ‘say/do’, occurring freely to its left or right.&lt;/p&gt;
+
+&lt;p&gt;The three constructions look very different on the surface, although they have the same function of forming a ‘verbal predicate’. A standard analysis of verbal predicate formation, such as Hale &amp;amp; Keyser 2002, involves either head movement of the verbal head V to the functional v, or Conflation, i.e. direct Merge of some root into v (see also Haugen 2009). In this binary system, however, it is hard to capture the three-way distinction found in the Kunbarlang VP. What is even more puzzling is that the choice between the three constructions needs to be motivated. Hence, our second question is, how many structures underlie the three-part typology of the Kunbarlang VP. In providing an answer to it, we address the head movement question.&lt;/p&gt;
+
+&lt;p&gt;We offer a uniform analysis for all three constructions, which retains the underlying intuition of the standard analysis of complex predicates. However, the parameters of the constructional variation presumably pertain to phonology, and we argue that in this present case, the perceived movement must occur post-syntactically. In each of the discussed constructions, we identify the thematic of the complex stem and the light verb in the other two constructions with v, and take the other predicative element (prepound/coverb/preverb; henceforth Particle) to be an acategorial Root that merges under v and is thus categorised. We defend the simplest hypothesis that the three constructions at hand are syntactically indistinguishable.&lt;/p&gt;
+
+&lt;p&gt;We maintain that the differences in the resulting surface structure stem from the phonological behaviour of the Particle, which, in turn, is determined by the degree of nativisation of the Particle. The three constructions correspond to three groups of the Particle: inherited proto-Gunwinyguan (pGn) roots, nativised loans, and novel loans. The deeper a root is integrated within the lexicon, the tighter its nexus within the verb phrase.&lt;/p&gt;
+
+&lt;p&gt;The weakest integration is of the ad hoc English loans, which are the only Particles found in the preverb construction: the surface morphophonological form of an English verb disqualifies it from participating in the remaining two structures. The tightest integration is with the inherited roots such as &lt;em&gt;kel&lt;/em&gt; ‘fear’, which appear fully integrated within the polysynthetic verbal word &lt;em&gt;kaddakelkidanj&lt;/em&gt; ‘they fled in fear’. The mid level of integration is found with the roots that appear to be loanwords, but have been nativised, such as &lt;em&gt;kulkkulk&lt;/em&gt; ‘run’ in the coverb construction. These items have cognates in other Gunwinyguan languages and also in Mawng, a neighbouring Iwaidjan language. Similarly to Kunbarlang, Mawng is the only language in its family where there are coverb constructions, and it appears most likely that the two languages have developed the construction through close contact. Furthermore, many of these coverb items have cognate prepounds in complex stems in other Gunwinyguan languages (esp. Bininj Kunwok and Dalabon), and it is these items that combine with the verbaliser thematic, rather than with one of the host of light-verb thematics. The cognates of the items that we identify as pGn inherited roots serve as prepounds with a wide range of thematics. Crucially, none of this morphophonological information is available during the syntactic computation, as it only becomes available following lexical insertion, once the syntactic computation has run its course.&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Alpher, Barry, Nicholas Evans &amp;amp; Mark Harvey. 2003. Proto Gunwinyguan verb suffixes. In, ed. by Nicholas Evans, 305–352. Canberra: Pacific Linguistics.&lt;/p&gt;
+
+&lt;p&gt;Arregi, Karlos &amp;amp; Asia Pietraszko. 2020. The ups and downs of head displacement. Linguistic Inquiry. to appear.&lt;/p&gt;
+
+&lt;p&gt;Hale, Kenneth &amp;amp; Samuel Jay Keyser. 2002. Prolegomenon to a theory of argument structure. Cambridge, MA: MIT Press.&lt;/p&gt;
+
+&lt;p&gt;Haugen, Jason D. 2009. Hyponymous objects and Late Insertion. Lingua 119. 242–62.&lt;/p&gt;
+
+&lt;p&gt;Marantz, Alec. 1997. No escape from syntax: don’t try morphological analysis in the privacy of your own lexicon. In, ed. by Alexis Dimitriadis, Proceedings of the 1998 penn linguistics colloqium.&lt;/p&gt;
+
+&lt;p&gt;Platzack, Christer. 2013. Head movement as a phonological operation. In, ed. by Lisa Lai-Shen Cheng et al., Diagnosing syntax.&lt;/p&gt;
+
+&lt;p&gt;Travis, Lisa. 1984. Parameters and effects of word order variation. MIT PhD.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Not all obligatory control is movement</title>
 <link>https://pavelrudnev.github.io/writing/oblique-control/</link>
 <pubDate>Wed, 09 Dec 2020 00:00:00 UTC</pubDate>
@@ -98,14 +143,6 @@
 <guid>https://pavelrudnev.github.io/writing/russian-nominalisations/</guid>
 <description>&lt;p&gt;In this paper, we analyse case marking in Russian eventive nominalisations recently discussed in Pereltsvaig 2018 with regards to two competing theories of case: the Inherent Case Theory (Woolford 2006; 2009) and the Dependent Case Theory (Marantz 1991). We contest the view that Russian eventive nominalisations display ergative alignment (Koptjevskaja-Tamm 1993) and argue that Russian is a nominative-accusative language across the board. We propose an analysis for the syntax of Russian eventive nominalisations and show that, contrary to Pereltsvaig (2018), they are in principle incapable of disproving the DCT. The resulting analysis is trivially compatible with the DCT.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>https://pavelrudnev.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -890,25 +927,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/tindag2015-handout.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Towards a non-cartographic approach to Avar focus movement</title>
-<link>https://pavelrudnev.github.io/presentation/2013/avar-focus-goettingen/</link>
-<pubDate>Thu, 12 Dec 2013 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2013/avar-focus-goettingen/</guid>
-<description>&lt;p&gt;In this talk I examine the Avar focus construction, restricting my attention to situations where focus marking brings with it a change in the morphosyntactic appearance of the verb. I argue against the popular cartographic approach to focus whereby non-syntactic, interpretative information is instantiated as a head in the functional structure of the clause, and pursue an alternative, free-merge based approach to focus movement.&lt;/p&gt;
-
-&lt;p&gt;Superseded by chapter 5 of my PhD thesis.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, focus, Avar&lt;/p&gt;
-
-&lt;p&gt;This is an invited talk at &lt;em&gt;New approaches to the syntax/semantics interface&lt;/em&gt;, a workshop held at the University of Göttingen as part of the &lt;a href=&#34;http://www.u4network.eu/&#34;&gt;U4 network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/goettingen-slides.pdf&#34;&gt;slides&lt;/a&gt; for this talk are available.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
