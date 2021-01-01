@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pavelrudnev.github.io/presentation/2021/paris-webinar/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pavelrudnev.github.io/writing/against-ua/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -306,13 +311,13 @@
   
   <url>
     <loc>https://pavelrudnev.github.io/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pavelrudnev.github.io/presentation/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -26,14 +26,14 @@
     <language>en-gb</language>
     
     
-    <updated>Thu, 31 Dec 2020 14:11:40 MSK</updated>
+    <updated>Fri, 01 Jan 2021 10:42:24 MSK</updated>
 
 
 <item>
-<title>Writings</title>
-<link>https://pavelrudnev.github.io/writing/</link>
+<title>Presentations</title>
+<link>https://pavelrudnev.github.io/presentation/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/writing/</guid>
+<guid>https://pavelrudnev.github.io/presentation/</guid>
 <description></description>
 </item>
     
@@ -42,6 +42,41 @@
 <link>https://pavelrudnev.github.io/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>The Anaphor Agreement Effect: An East-Caucasian perspective</title>
+<link>https://pavelrudnev.github.io/presentation/2021/paris-webinar/</link>
+<pubDate>Fri, 01 Jan 2021 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2021/paris-webinar/</guid>
+<description>
+
+&lt;p&gt;The Anaphor Agreement Effect (AAE) is an empirical observation stating that reflexive pronouns tend to fail to trigger non-trivial &lt;em&gt;𝜑&lt;/em&gt;-agreement on the verb (Rizzi 1990, Murugesan 2019, Preminger 2019).&lt;/p&gt;
+
+&lt;p&gt;Theoretical approaches to anaphora seeking to reduce reflexive binding to agreement postulate an inherent featural deficiency for referentially dependent expressions (Kratzer 2009, Rooryck &amp;amp; Vanden Wyngaerd 2011, Murugesan 2019). If it is not resolved via Agree during the derivation, the resulting structure either spells out trivial/defaul agreement (e.g. Albanian) or cannot be spelled out altogether (e.g. Icelandic). Exceptions to the AAE are handled by tweaking the relative hierarchical positions of the various elements participating in the agreement relationship.&lt;/p&gt;
+
+&lt;p&gt;This paper aims to show, by adducing evidence from Avar and other East Caucasian languages, that the reductionist approach to the AAE and binding more generally makes incorrect predictions. I also show that the East Caucasian data are fully compatible with the encapsulation approach to the AAE whereby reflexives are viewed as multi-layered pronouns whose interior with valued &lt;em&gt;𝜑&lt;/em&gt;-features is inaccessible to probing by verbal &lt;em&gt;𝜑&lt;/em&gt;-probes (Preminger 2019).&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Kratzer, Angelika. 2009. Making a pronoun: Fake indexicals as windows into the properties of pronouns. Linguistic Inquiry 40(2). 187–237.&lt;/p&gt;
+
+&lt;p&gt;Murugesan, Gurujegan. 2019. Predicting the Anaphor Agreement Effect and its violations. Leipzig University dissertation.&lt;/p&gt;
+
+&lt;p&gt;Preminger, Omer. 2019. The Anaphor Agreement Effect: further evidence against binding-as-agreement. Unpublished ms., University of Maryland at College Park. Version v7, accessed 4th August 2019.&lt;/p&gt;
+
+&lt;p&gt;Rizzi, Luigi. 1990. On the anaphor agreement effect. Rivista di Grammatica Generativa 2. 27–42.&lt;/p&gt;
+
+&lt;p&gt;Rooryck, Johan &amp;amp; Guido Vanden Wyngaerd. 2011. Dissolving binding theory. Oxford: Oxford University Press.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>https://pavelrudnev.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/</guid>
 <description></description>
 </item>
     
@@ -71,14 +106,6 @@
 
 &lt;p&gt;This is the author&amp;rsquo;s final version of an article accepted to appear in &lt;em&gt;Linguistic Inquiry&lt;/em&gt;.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>https://pavelrudnev.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -911,25 +938,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 <pubDate>Sun, 15 Feb 2015 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/writing/dependency-and-discourse-configurationality/</guid>
 <description>&lt;p&gt;The present thesis provides a detailed description of the syntactic and semantic properties of a number of related constructions in Avar, a Northeast Caucasian language. These include relativisation, wh-questions and focus sentences, all of which are created via a dependency between an abstract operator and a variable. In addition to the description a generative analysis is developed whereby the relative clause is treated as the structural core for the remaining constructions.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Locations and situations: Negation and finiteness in Avar</title>
-<link>https://pavelrudnev.github.io/presentation/2015/locations-and-situations-avar-negation-tindag/</link>
-<pubDate>Sat, 07 Feb 2015 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2015/locations-and-situations-avar-negation-tindag/</guid>
-<description>&lt;p&gt;In this talk I discuss a number of restrictions on sentential negation marking in Avar, a Northeast Caucasian language, and sketch a tentative analysis of the observed morphosyntactic facts as having a semantic basis. The two different negation markers (&lt;em&gt;-ro&lt;/em&gt; and &lt;em&gt;-č&amp;rsquo;o&lt;/em&gt;) are analysed, based on the proposal in Ramchand &amp;amp; Svenonius 2014, as taking complements of a different syntactic size and semantic type.&lt;/p&gt;
-
-&lt;p&gt;In particular, I show that the two negation markers attested in Avar differ in the type of semantic object they can compose with: for the present and future tenses &lt;em&gt;-ro&lt;/em&gt; combines with a Fin*P denoting a set of propositions, whereas past-tense negation utilises the biclausal predicational strategy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, negation, nominalization, event semantics, situation semantics, Avar&lt;/p&gt;
-
-&lt;p&gt;This is a talk at TiN-Dag 2015, the annual general linguistics conference of the &lt;a href=&#34;http://www.hum.leidenuniv.nl/onderzoek/avt/&#34;&gt;Dutch Linguistics Association&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/tindag2015-handout.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
 </item>
     
