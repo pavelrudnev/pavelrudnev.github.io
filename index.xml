@@ -26,14 +26,14 @@
     <language>en-gb</language>
     
     
-    <updated>Wed, 24 Mar 2021 14:36:56 MSK</updated>
+    <updated>Sat, 03 Apr 2021 20:53:57 MSK</updated>
 
 
 <item>
-<title>Writings</title>
-<link>https://pavelrudnev.github.io/writing/</link>
+<title>Presentations</title>
+<link>https://pavelrudnev.github.io/presentation/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/writing/</guid>
+<guid>https://pavelrudnev.github.io/presentation/</guid>
 <description></description>
 </item>
     
@@ -46,6 +46,23 @@
 </item>
     
 <item>
+<title>Revisiting Russian small nominals</title>
+<link>https://pavelrudnev.github.io/presentation/2021/formlab-periphrasis/</link>
+<pubDate>Sat, 03 Apr 2021 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2021/formlab-periphrasis/</guid>
+<description>&lt;p&gt;Many approaches to the syntax of  nominal phrases postulate the existence of nominals of various size so that some modifiers — determiners, quantifiers and classifiers — are argued to project a constituent of their own, such as DP, QP and ClP. As discussed by Salzmann (2020), most of the existing arguments do not in fact show that it is the modifier that is the head of the entire nominal constituent and are instead based on essentially semantic notions like referentiality. A rare exception is Pereltsvaig (2006), who provides a distributional argument for the existence of determinerless noun phrases in Russian that are c-selected by dedicated heads in the shape of the cumulative verbal prefix ‘na-’, a prefix that is argued to be incompatible with DPs. In this talk, I revisit the distributional behaviour of these small nominals by adducing naturally occurring data as well as acceptability data that reveal no incompatibility between cumulative ‘na-’verbs and full DPs. I conclude that Russian small nominals are never c-selected and do not support the DP-hypothesis.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>https://pavelrudnev.github.io/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/writing/</guid>
+<description></description>
+</item>
+    
+<item>
 <title>Against Upwards Agree</title>
 <link>https://pavelrudnev.github.io/writing/against-ua/</link>
 <pubDate>Mon, 15 Feb 2021 00:00:00 UTC</pubDate>
@@ -53,23 +70,6 @@
 <description>&lt;p&gt;Bjorkman &amp;amp; Zeijlstra (2019) claim that agreement with the absolutive argument in ergative-absolutive languages follows naturally in an Upwards-Agree system supplemented by the relation of Accessibility  if &lt;em&gt;φ&lt;/em&gt;-agreement is parasitic on structural case assigned to the absolutive noun phrase either by T° or by v°. By drawing evidence from two distantly related East Caucasian languages—Chirag and Avar—the present article argues that this theory is both too strong and too weak. I then show that the problematical facts are trivially analysable with standard Agree (Chomsky 2000 &lt;em&gt;et seq.&lt;/em&gt;).&lt;/p&gt;
 
 &lt;p&gt;This is the author&amp;rsquo;s final version of an article accepted to appear in &lt;em&gt;The Linguistic Review&lt;/em&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>https://pavelrudnev.github.io/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/</guid>
-<description></description>
-</item>
-    
-<item>
-<title>Morphosyntactic duality of nonfinite forms in Avar</title>
-<link>https://pavelrudnev.github.io/presentation/2021/formlab-periphrasis/</link>
-<pubDate>Fri, 22 Jan 2021 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2021/formlab-periphrasis/</guid>
-<description>&lt;p&gt;It is a robust empirical generalisation that, crosslinguistically, nonfinite verbal forms (infinitives, participles, converbs and nominalisations) can head clauses of their own as well as form a part of compound, periphrastic forms expressing a variety of meanings (tense, aspect, modality and evidentiality). In this talk, I systematise what is known about the various types of such multifunctional nonfinites in Avar and attempt to situate them on the theoretical landscape. I argue that all periphrastic TAME-forms in Avar involve vP-restructuring whereby an auxiliary verb, &lt;em&gt;be&lt;/em&gt;, takes a nonfinite lexical vP (whether it is an infinitive, a converb or a participle) as its complement. I conclude that the Avar facts are better compatible with Merge/Selection rather than the insertion approaches to verbal periphrasis.&lt;/p&gt;
 </description>
 </item>
     
