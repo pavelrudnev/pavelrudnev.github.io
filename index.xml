@@ -26,7 +26,7 @@
     <language>en-gb</language>
     
     
-    <updated>Sat, 03 Apr 2021 20:53:57 MSK</updated>
+    <updated>Sat, 03 Apr 2021 21:10:33 MSK</updated>
 
 
 <item>
@@ -51,6 +51,15 @@
 <pubDate>Sat, 03 Apr 2021 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/presentation/2021/formlab-periphrasis/</guid>
 <description>&lt;p&gt;Many approaches to the syntax of  nominal phrases postulate the existence of nominals of various size so that some modifiers — determiners, quantifiers and classifiers — are argued to project a constituent of their own, such as DP, QP and ClP. As discussed by Salzmann (2020), most of the existing arguments do not in fact show that it is the modifier that is the head of the entire nominal constituent and are instead based on essentially semantic notions like referentiality. A rare exception is Pereltsvaig (2006), who provides a distributional argument for the existence of determinerless noun phrases in Russian that are c-selected by dedicated heads in the shape of the cumulative verbal prefix ‘na-’, a prefix that is argued to be incompatible with DPs. In this talk, I revisit the distributional behaviour of these small nominals by adducing naturally occurring data as well as acceptability data that reveal no incompatibility between cumulative ‘na-’verbs and full DPs. I conclude that Russian small nominals are never c-selected and do not support the DP-hypothesis.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Avar non-finites between restructuring and periphrasis</title>
+<link>https://pavelrudnev.github.io/presentation/2021/ghent-periphrasis/</link>
+<pubDate>Thu, 25 Mar 2021 00:00:00 UTC</pubDate>
+<guid>https://pavelrudnev.github.io/presentation/2021/ghent-periphrasis/</guid>
+<description>&lt;p&gt;In many languages, forms traditionally characterised as nonfinite (participles, infinitives, converbs and gerunds/nominalisations) can either head a clausal constituent of their own or occur inside a periphrastic TAM-construction. Existing theoretical approaches to the morphosyntax of such elements postulate a range of mechanisms — both narrow-syntactic such as head movement and post-syntactic such as structure removal, impoverishment, underspecification or fusion — to enable the insertion of an identical form into two distinct syntactic structures. Using Avar (East Caucasian) as a test case, I review two main groups of approaches to verbal periphrasis and propose a tentative analysis.&lt;/p&gt;
 </description>
 </item>
     
@@ -911,29 +920,6 @@ the Netherlands and Belgium today.&lt;/p&gt;
 <pubDate>Sat, 02 May 2015 00:00:00 UTC</pubDate>
 <guid>https://pavelrudnev.github.io/writing/kendisi-revisited/</guid>
 <description>&lt;p&gt;The present contribution follows up on Rudnev 2011, which, in turn, was based on a presentation I gave in Barbara Partee&amp;rsquo;s semantics class in the spring of 2008. It is for this reason that I omit most of the arguments for the pronominal nature of kendisi and present a formalisation of its semantic properties based on Partee 1983 and Elbourne 2008.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>A study of Avar negation</title>
-<link>https://pavelrudnev.github.io/presentation/2015/avar-negation-groningen/</link>
-<pubDate>Mon, 13 Apr 2015 00:00:00 UTC</pubDate>
-<guid>https://pavelrudnev.github.io/presentation/2015/avar-negation-groningen/</guid>
-<description>&lt;p&gt;In this talk I discuss a number of restrictions on sentential negation marking in Avar, a Northeast Caucasian language, and sketch a tentative analysis of the observed morphosyntactic facts as having a semantic basis. The two different negation markers (&lt;em&gt;-ro&lt;/em&gt; and &lt;em&gt;-č&amp;rsquo;o&lt;/em&gt;) are analysed, based on the proposal in Ramchand &amp;amp; Svenonius 2014, as taking complements of a different syntactic size and semantic type.&lt;/p&gt;
-
-&lt;p&gt;In particular, I show that the two negation markers attested in Avar differ in the type of semantic object they can compose with: for the present and future tenses &lt;em&gt;-ro&lt;/em&gt; combines with a Fin*P denoting a set of propositions, whereas past-tense negation utilises the biclausal predicational strategy.&lt;/p&gt;
-
-&lt;p&gt;The question why past tense forms cannot combine with &lt;em&gt;-ro&lt;/em&gt; has remained unanswered. It remains to be seen whether the proposal made for &lt;em&gt;-č’o&lt;/em&gt; can be made compatible with the use of the present-tense negative copula/auxiliary &lt;em&gt;heč’o&lt;/em&gt; as the auxiliary in analytic verb forms.&lt;/p&gt;
-
-&lt;p&gt;I further draw a number of cross-linguistic comparisons between Avar on the one hand, and Bengali, Mebengokre and the Salish languages on the other.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; syntax, semantics, negation, nominalization, event semantics, situation semantics, Avar&lt;/p&gt;
-
-&lt;p&gt;This is a talk at the [That depends&amp;hellip;]() workshop on the occasion of my viva at the University of Groningen.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://pavelrudnev.github.io/pdf/that-depends-handout.pdf&#34;&gt;handout&lt;/a&gt; for this talk is available.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
 </item>
     
