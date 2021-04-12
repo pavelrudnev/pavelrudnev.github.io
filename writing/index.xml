@@ -6,10 +6,19 @@
     <description>Recent content in Writings on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linearisation constraints on sentential negation in Russian Sign Language are prosodic</title>
+      <link>https://pavelrudnev.github.io/writing/sll-squib/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/sll-squib/</guid>
+      <description>This short remark documents exceptions to the main strategy of expressing sentential negation in Russian Sign Language (RSL). The postverbal sentential negation particle in RSL inverts the basic SVO order characteristic of the language turning it into SOV. We show that this reversal requirement under negation is not absolute and does not apply to prosodically heavy object NPs. The resulting picture accords well with the view of RSL word order laid out by Kimmelman (2012) and supports a model of grammar where syntactic computation has access to phonological information.</description>
+    </item>
     
     <item>
       <title>Against Upwards Agree</title>
