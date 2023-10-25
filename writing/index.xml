@@ -6,10 +6,28 @@
     <description>Recent content in Writings on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Categorial selection and functional structure in the noun phrase: Revisiting Russian small nominals</title>
+      <link>https://pavelrudnev.github.io/writing/smnom/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/smnom/</guid>
+      <description>Given the well-attested selectional asymmetries between clauses and nominals, selection-based empirical arguments for the projection of functional structure in the noun phrase are especially pertinent for the debate regarding the syntax of nominal phrases. One such argument is the selection of ‘small nominals’ by a Russian aspectual prefix. This paper reports naturally occurring and experimental data showing that the Russian cumulative aspectual prefix na- is equally compatible with nominals with and without adnominal modifiers and therefore does not c-select a ‘small nominal’, contrary to all existing claims in the literature.</description>
+    </item>
+    
+    <item>
+      <title>The many facets of agreement</title>
+      <link>https://pavelrudnev.github.io/writing/facets/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/writing/facets/</guid>
+      <description>Agreement is a phenomenon that spans multiple areas of linguistic theorizing. On the one hand, agreement has been regarded as purely syntactic/morphological phenomenon because it has no clear contribution to meaning. However, this clashes with the observation that agreement may also influence interpretation in subtle ways, allowing languages to express nuances in meaning that would otherwise get lost. The book addresses the phenomenon of agreement and its place in the grammar from multiple linguistic perspectives.</description>
+    </item>
     
     <item>
       <title>The Anaphor Agreement Effect as epiphenomenon</title>
