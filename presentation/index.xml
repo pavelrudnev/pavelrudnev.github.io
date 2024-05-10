@@ -6,10 +6,19 @@
     <description>Recent content in Presentations on Pavel Rudnev’s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavelrudnev.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Free Merge, negative concord and long-distance scrambling in Russian</title>
+      <link>https://pavelrudnev.github.io/presentation/2022/iatl37-negconc/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavelrudnev.github.io/presentation/2022/iatl37-negconc/</guid>
+      <description>I provide an argument against Upward Agree based on the interaction between strict negative concord and long-distance scrambling in Russian. The main gist of that argument is that the locality condition regulating the licensing of negative concord items by sentential negation can be circumvented by overt movement if and only if the landing site of that movement is above negation. I then develop an account in terms of Downward Agree capturing the observed distribution.</description>
+    </item>
     
     <item>
       <title>Avar participles and periphrasis</title>
